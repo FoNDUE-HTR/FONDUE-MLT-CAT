@@ -16,7 +16,7 @@
                 <OtherTag ID="BT233" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/>
                 <OtherTag ID="BT234" LABEL="StampZone" DESCRIPTION="block type StampZone"/>
                 <OtherTag ID="BT235" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
-                <OtherTag ID="BT388" LABEL="Margin" DESCRIPTION="block type Margin"/>
+                <OtherTag ID="BT388" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
                 <OtherTag ID="LT96" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
         </Tags>
 

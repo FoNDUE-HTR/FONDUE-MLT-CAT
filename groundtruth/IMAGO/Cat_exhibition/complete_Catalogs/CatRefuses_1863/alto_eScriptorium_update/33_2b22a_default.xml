@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT839" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT840" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT841" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT842" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT843" LABEL="CustomZone:entry" DESCRIPTION="block type CustomZone:entry"/><OtherTag ID="BT844" LABEL="CustomZone:entryEnd" DESCRIPTION="block type CustomZone:entryEnd"/><OtherTag ID="BT845" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT846" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT847" LABEL="Margin" DESCRIPTION="block type Margin"/>
+    <OtherTag ID="BT839" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT840" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT841" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT842" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT843" LABEL="CustomZone:entry" DESCRIPTION="block type CustomZone:entry"/><OtherTag ID="BT844" LABEL="CustomZone:entryEnd" DESCRIPTION="block type CustomZone:entryEnd"/><OtherTag ID="BT845" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT846" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT847" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
     <OtherTag ID="LT311" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -432,7 +432,7 @@
                     WIDTH="1175"
                     HEIGHT="61">
             <Shape><Polygon POINTS="331 1688 331 1660 346 1662 361 1651 390 1658 404 1651 435 1652 448 1660 478 1662 597 1662 617 1651 635 1662 657 1648 674 1648 696 1660 841 1662 860 1648 910 1648 924 1658 953 1648 968 1659 1040 1662 1070 1649 1086 1656 1097 1648 1121 1648 1139 1659 1162 1648 1180 1648 1205 1659 1231 1648 1256 1662 1288 1662 1317 1649 1333 1656 1344 1648 1404 1648 1417 1654 1437 1651 1448 1659 1467 1649 1481 1659 1504 1662 1506 1689 1504 1709 1451 1700 1278 1700 1266 1709 1219 1709 1205 1700 931 1700 880 1709 856 1709 844 1700 820 1706 648 1706 638 1700 593 1709 517 1703 508 1709 480 1709 457 1702 444 1707 409 1706 401 1700 350 1707 331 1699"/></Shape>
-	    <String CONTENT="et Troyon, à Saumur (MainZonee-et-Loire), et à Paris."
+	    <String CONTENT="et Troyon, à Saumur (Maine-et-Loire), et à Paris."
                     HPOS="331"
                     VPOS="1648"
                     WIDTH="1175"

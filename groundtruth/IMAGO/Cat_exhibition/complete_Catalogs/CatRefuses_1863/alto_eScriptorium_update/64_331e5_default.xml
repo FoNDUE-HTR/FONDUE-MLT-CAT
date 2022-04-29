@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT839" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT840" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT841" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT842" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT843" LABEL="CustomZone:entry" DESCRIPTION="block type CustomZone:entry"/><OtherTag ID="BT844" LABEL="CustomZone:entryEnd" DESCRIPTION="block type CustomZone:entryEnd"/><OtherTag ID="BT845" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT846" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT847" LABEL="Margin" DESCRIPTION="block type Margin"/>
+    <OtherTag ID="BT839" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT840" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT841" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT842" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT843" LABEL="CustomZone:entry" DESCRIPTION="block type CustomZone:entry"/><OtherTag ID="BT844" LABEL="CustomZone:entryEnd" DESCRIPTION="block type CustomZone:entryEnd"/><OtherTag ID="BT845" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT846" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT847" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
     <OtherTag ID="LT311" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -147,7 +147,7 @@
                     WIDTH="1207"
                     HEIGHT="62">
             <Shape><Polygon POINTS="260 1331 260 1309 511 1310 531 1297 557 1297 586 1309 630 1306 648 1297 667 1312 758 1308 772 1298 798 1312 828 1298 855 1312 878 1312 899 1298 920 1306 937 1306 950 1298 991 1298 1004 1306 1056 1298 1075 1313 1104 1299 1157 1299 1169 1308 1194 1299 1206 1308 1253 1308 1262 1313 1295 1299 1317 1305 1350 1299 1364 1309 1390 1299 1406 1299 1422 1308 1466 1299 1467 1342 1466 1359 1372 1353 1364 1348 1346 1353 1315 1348 1280 1359 1262 1353 1233 1359 1224 1353 1171 1350 1104 1359 1088 1348 1066 1346 1048 1352 1031 1346 951 1346 925 1352 908 1348 895 1357 870 1346 844 1354 822 1346 790 1346 769 1354 703 1346 686 1357 562 1349 522 1356 506 1345 441 1353 281 1354 260 1343"/></Shape>
-	    <String CONTENT="CHARDON (Jean), né à Andard (MainZonee-et-Loire)"
+	    <String CONTENT="CHARDON (Jean), né à Andard (Maine-et-Loire)"
                     HPOS="260"
                     VPOS="1297"
                     WIDTH="1207"

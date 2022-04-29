@@ -2,16 +2,16 @@
 
 ## Description
 
-This repository is composed of two datasets that contain images and transcriptions of historical catalogs. 
-These datasets are used to train new models of segmentation and OCR for historical catalogs. 
+This repository is composed of two datasets which contain images and transcriptions of historical catalogs. 
+These datasets are used to train new models of segmentation and OCR. 
 Segmented zones in the ALTO data presented here are following [SegmOnto guidelines](https://github.com/SegmOnto/Guidelines). 
 
 The `IMAGO` dataset is based on the [repository developed by Juliette Janes](https://github.com/Juliettejns/cataloguesSegmentationOCR/). 
 The segmented data provided by Juliette Janes has been updated by Frédérine Pradier to match the current [SegmOnto](https://github.com/SegmOnto) naming zone ontology. 
 
-The `PictoCatalogs` dataset is composed of pictorialist exhibitions catalogs, transcription and segmentation have been done by Frédérine Pradier.
+The `PictoCatalogs` dataset is composed of pictorialist exhibitions catalogs, transcription and segmentation have been done by Frédérine Pradier. 
 
-## Repository
+This repository is under construction. 
 
 ```
 ├── Groundtruth
@@ -40,7 +40,7 @@ This repository is developed by Frédérine Pradier.
 
 **About the `PictoCatalogs` dataset :**
 
-`PictoCatalogs` dataset, transcription and segmentation have been done by Frédérine Pradier.
+ Transcription and segmentation in the `PictoCatalogs` dataset have been done by Frédérine Pradier.
 
 **About the `IMAGO` dataset :**
 

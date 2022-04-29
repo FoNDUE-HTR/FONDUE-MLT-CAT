@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1049" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1050" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1051" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1053" LABEL="CustomZone:entry" DESCRIPTION="block type CustomZone:entry"/><OtherTag ID="BT1055" LABEL="CustomZone:entryEnd" DESCRIPTION="block type CustomZone:entryEnd"/><OtherTag ID="BT1056" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1057" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT1065" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1066" LABEL="Margin" DESCRIPTION="block type Margin"/>
+    <OtherTag ID="BT1049" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1050" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1051" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1053" LABEL="CustomZone:entry" DESCRIPTION="block type CustomZone:entry"/><OtherTag ID="BT1055" LABEL="CustomZone:entryEnd" DESCRIPTION="block type CustomZone:entryEnd"/><OtherTag ID="BT1056" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1057" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT1065" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1066" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/>
     <OtherTag ID="LT382" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
