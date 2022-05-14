@@ -6,6 +6,6 @@ authors:
     orcid: "https://orcid.org/0000-0002-3476-7248"
 title: "PictoCatalogs - Datasets for historical catalogs OCR and segmentation"
 version: "1.0"
-license: cc-by-2.0
+license: cc-by-4.0
 date-released: 2021-05-14
 url: "https://github.com/PictoCatalogs/TrainingDataOCR"

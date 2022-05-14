@@ -28,7 +28,7 @@ This repository is developed by Frédérine Pradier.
 
 ## Licence
 
-`PictoCatalogs` : the catalogs are in the public domain, images are made available by the Metropolitan Museum of Art under a [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr) license and transcriptions are [CC-BY](https://creativecommons.org/licenses/by/2.0/fr/).
+`PictoCatalogs` : the catalogs are in the public domain, images are made available by the Metropolitan Museum of Art under a [CC0](https://creativecommons.org/licenses/by/4.0) license and transcriptions are [CC-BY](https://creativecommons.org/licenses/by/2.0/fr/).
 
 `Groupe Annuaires et Adresses`, `IMAGO`, `Katabase`, `ODD` : images from catalogs published prior 1920 and transcriptions are [CC-BY](https://creativecommons.org/licenses/by/2.0/fr/). The other images are extracts of catalogs published after 1920 and are the intellectual property of their productor.
 
