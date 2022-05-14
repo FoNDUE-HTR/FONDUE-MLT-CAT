@@ -2,53 +2,30 @@
 
 ## Description
 
-This repository is composed of two datasets which contain images and transcriptions of historical catalogs. 
+This repository is composed of several datasets which contain images and transcriptions of historical catalogs. 
 These datasets are used to train new models of segmentation and OCR. 
 Segmented zones in the ALTO data presented here are following [SegmOnto guidelines](https://github.com/SegmOnto/Guidelines). 
 
-The `IMAGO` dataset is based on the [repository developed by Juliette Janes](https://github.com/Juliettejns/cataloguesSegmentationOCR/). 
+`PictoCatalogs` : composed of pictorialist exhibitions catalogs. 
+`Groupe Annuaires et Adresses` : composed of a directory
+`IMAGO`: composed of art exhibition catalogs. 
+`Katabase`: composed of manuscript sales catalogs. 
+`ODD`: composed of french novels. 
+
+The `Groupe Annuaires et Adresses`, `IMAGO`, `Katabase` and `ODD` datasets are based on the [repository developed by Juliette Janes](https://github.com/Juliettejns/cataloguesSegmentationOCR/). 
 The segmented data provided by Juliette Janes has been updated by Frédérine Pradier to match the current [SegmOnto](https://github.com/SegmOnto) naming zone ontology. 
 
-The `PictoCatalogs` dataset is composed of pictorialist exhibitions catalogs, transcription and segmentation have been done by Frédérine Pradier. 
-
 This repository is under construction. 
-
-```
-├── Groundtruth
-│      ├── IMAGO
-│      │     ├── Annuaires
-│      │     ├── Cat_expositions
-|      │     └── Cat_manuscrits
-|      │     └── Out_of_domain
-│      │
-|      ├── PictoCatalogs
-│      │      ├─ PCP_1894
-|      │      ├─ PCP_1896
-|      │      ├─ PCP_1898
-│      │      └─ PCP_1906
-|      │
-|      └── README.md
-|
-└── Models
-       ├── OCR
-       └── Segmentation           
-```
 
 ## Credits 
 
 This repository is developed by Frédérine Pradier.
 
-**About the `PictoCatalogs` dataset :**
-
- Transcription and segmentation in the `PictoCatalogs` dataset have been done by Frédérine Pradier.
-
-**About the `IMAGO` dataset :**
-
-`IMAGO` dataset is based on the [repository developed by Juliette Janes](https://github.com/IMAGO-Catalogues-Jjanes/cataloguesSegmentationOCR) : 
-- `Annuaires` preparation has been done by Gabriela Elgarrista, under the supervision of Carmen Brando.
-- `Cat_exhibition` preparation has been done by Caroline Corbières.
-- `Cat_manuscripts` preparation has been done by Simon Gabay.
-- `Out_of_domain` preparation has been done by Simon Gabay.
+`PictoCatalogs`: preparation have been done by Frédérine Pradier.
+`Groupe Annuaires et Adresses`: preparation has been done by Gabriela Elgarrista, under the supervision of Carmen Brando.
+`IMAGO`: preparation has been done by Caroline Corbières.
+`Katabase`: preparation has been done by Simon Gabay.
+`ODD`: preparation has been done by Simon Gabay.
 
 ## Licence
 
