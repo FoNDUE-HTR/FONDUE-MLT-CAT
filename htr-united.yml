@@ -2,20 +2,21 @@ schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 title: TrainingDataOCR
 url: https://github.com/PictoCatalogs/TrainingDataOCR
 authors:
-  - name: Pradier
-    surname: Frederine
-    type: person
-    orcid: 0000-0002-3476-7248
-    roles:
-      - transcriber
-      - project-manager
-description: |
-  Datasets for historical catalogs OCR and segmentation
+- name: Pradier
+  surname: Frederine
+  type: person
+  orcid: 0000-0002-3476-7248
+  roles:
+  - transcriber
+  - project-manager
+description: 'Datasets for historical catalogs OCR and segmentation
+
+  '
 language:
-  - fra
+- fra
 production-software: eScriptorium + Kraken
 script:
-  - iso: Latn
+- iso: Latn
 script-type: only-typed
 time:
   notBefore: '1801'
@@ -24,7 +25,16 @@ hands:
   count: unknown
   precision: exact
 license:
-  - name: CC-BY 4.0
-    url: https://creativecommons.org/licenses/by/4.0/
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
 format: Alto-XML
 citation-file-link: https://github.com/PictoCatalogs/TrainingDataOCR/blob/main/CITATION.cff
+volume:
+- metric: characters
+  count: 128663
+- metric: files
+  count: 249
+- metric: lines
+  count: 5619
+- metric: regions
+  count: 1427
