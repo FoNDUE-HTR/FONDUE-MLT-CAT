@@ -2,7 +2,10 @@
 
 ## Description
 
-This repository is composed of several datasets from different research projects. These datasets contain images and transcriptions of historical catalogs and are used to train new models of segmentation and OCR. 
+![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
+
+
+This repository is composed of several datasets from different research projects. These datasets contain images and transcriptions of historical catalogs (19th and 20th c. prints) and are used to train new models of segmentation and OCR. 
 Segmented zones in the ALTO data presented here are following [SegmOnto guidelines](https://github.com/SegmOnto/Guidelines). 
 
 - `PictoCatalogs` : composed of pictorialist exhibitions catalogs. 
