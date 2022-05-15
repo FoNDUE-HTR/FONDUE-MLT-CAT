@@ -17,10 +17,10 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install htr-united-metadata-generator htruc anybadge
+groundtruth/*/*/*.xml          pip install htr-united-metadata-generator htruc anybadge
       - name: Run Report
         run: |
-          humGenerator --parse alto --group groundtruth/*/*/*.xml --github-envs --to-json updated_metrics.json
+          humGenerator --parse alto --group groundtruth/*/*/alto_update/*.xml --github-envs --to-json updated_metrics.json
           cat envs.txt >> $GITHUB_ENV
       - name: Get HTR United Badge Template
         if: github.ref == 'refs/heads/main'
