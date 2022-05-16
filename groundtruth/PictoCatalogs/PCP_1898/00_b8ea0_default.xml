@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT180" LABEL="CustomZone:entry" DESCRIPTION="block type CustomZone:entry"/><OtherTag ID="BT181" LABEL="CustomZone:entryend" DESCRIPTION="block type CustomZone:entryend"/><OtherTag ID="BT182" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT183" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT184" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT185" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT186" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT187" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT188" LABEL="MarginTextZoneTextZone" DESCRIPTION="block type MarginTextZoneTextZone"/><OtherTag ID="BT189" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
+    <OtherTag ID="BT180" LABEL="CustomZone:entry" DESCRIPTION="block type CustomZone:entry"/><OtherTag ID="BT181" LABEL="CustomZone:entryend" DESCRIPTION="block type CustomZone:entryend"/><OtherTag ID="BT182" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT183" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT184" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT185" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT186" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT187" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT188" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT189" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/>
     <OtherTag ID="LT62" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT63" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT64" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/>
   </Tags>
   
@@ -136,6 +136,23 @@
 
           
           
+          <TextLine ID="eSc_line_86a0de52"
+                    TAGREFS="LT62"
+                    BASELINE="56 990 127 989" 
+                    HPOS="53"
+                    VPOS="947"
+                    WIDTH="73"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="55 989 53 952 105 953 123 947 126 988 126 1004 55 1009"/></Shape>
+	    <String CONTENT="SAM."
+                    HPOS="53"
+                    VPOS="947"
+                    WIDTH="73"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_c10d7162"
                     TAGREFS="LT63"
                     BASELINE="291 1004 346 1006 382 1007 545 1009" 
@@ -155,27 +172,6 @@
         </TextBlock>
         
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_86a0de52"
-                    TAGREFS="LT62"
-                    BASELINE="56 990 127 989" 
-                    HPOS="53"
-                    VPOS="947"
-                    WIDTH="73"
-                    HEIGHT="62">
-            <Shape><Polygon POINTS="55 989 53 952 105 953 123 947 126 988 126 1004 55 1009"/></Shape>
-	    <String CONTENT="SAM."
-                    HPOS="53"
-                    VPOS="947"
-                    WIDTH="73"
-                    HEIGHT="62"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>

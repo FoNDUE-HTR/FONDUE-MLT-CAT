@@ -11,8 +11,8 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT190" LABEL="CustomZone:entry" DESCRIPTION="block type CustomZone:entry"/><OtherTag ID="BT191" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT192" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT193" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT194" LABEL="MarginTextZoneTextZone" DESCRIPTION="block type MarginTextZoneTextZone"/><OtherTag ID="BT195" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT196" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT197" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT198" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/>
-    <OtherTag ID="LT65" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT66" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT67" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT68" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/>
+    <OtherTag ID="BT190" LABEL="CustomZone:entry" DESCRIPTION="block type CustomZone:entry"/><OtherTag ID="BT191" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT192" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT193" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT194" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT195" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT196" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT197" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT198" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/>
+          <OtherTag ID="LT65" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT66" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT67" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT68" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/>
   </Tags>
   
   <Layout>
@@ -36,17 +36,17 @@
           
           <TextLine ID="eSc_line_b2a0a48f"
                     TAGREFS="LT67"
-                    BASELINE="288 558 638 550" 
+                    BASELINE="288 558 638 548" 
                     HPOS="282"
-                    VPOS="499"
-                    WIDTH="357"
-                    HEIGHT="78">
-            <Shape><Polygon POINTS="288 558 282 511 297 504 298 504 300 504 301 504 302 504 302 505 308 509 310 512 362 512 375 508 395 501 396 501 397 501 445 505 485 508 511 503 534 499 535 499 536 499 546 501 557 505 596 500 609 499 610 499 612 499 613 499 613 500 622 505 631 499 638 550 639 561 609 570 608 570 606 570 605 570 581 562 579 562 571 562 483 573 482 573 481 573 479 573 469 565 456 574 454 574 453 574 452 574 401 567 346 577 345 577 286 567"/></Shape>
+                    VPOS="501"
+                    WIDTH="355"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="286 557 282 512 633 501 637 546 637 560 505 569 503 569 502 569 485 563 478 562 464 563 417 571 416 571 415 571 393 566 388 565 286 567"/></Shape>
 	    <String CONTENT="CATALOGUE"
                     HPOS="282"
-                    VPOS="499"
-                    WIDTH="357"
-                    HEIGHT="78"></String>
+                    VPOS="501"
+                    WIDTH="355"
+                    HEIGHT="70"></String>
           </TextLine>
 
           
@@ -402,16 +402,6 @@
                     HEIGHT="65"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="211"
-                   VPOS="1215"
-                   WIDTH="9"
-                   HEIGHT="9"
-                   ID="eSc_textblock_2c993e80"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="215 1215 220 1224 211 1224 211 1215"/></Shape>
           
         </TextBlock>
         
