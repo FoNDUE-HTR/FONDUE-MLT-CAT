@@ -31,10 +31,10 @@ format: Alto-XML
 citation-file-link: https://github.com/PictoCatalogs/TrainingDataOCR/blob/main/CITATION.cff
 volume:
 - metric: characters
-  count: 1010561
+  count: 1042515
 - metric: files
-  count: 1011
+  count: 1089
 - metric: lines
-  count: 33726
+  count: 35305
 - metric: regions
-  count: 8031
+  count: 8490
