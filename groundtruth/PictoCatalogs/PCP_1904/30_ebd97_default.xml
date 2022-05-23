@@ -313,13 +313,13 @@
           
           
           <TextLine ID="eSc_line_d5153807"
-                    
+                    TAGREFS="LT97"
                     BASELINE="181 643 406 640" 
                     HPOS="178"
                     VPOS="623"
                     WIDTH="227"
                     HEIGHT="30">
-            <Shape><Polygon POINTS="180 642 178 627 403 623 405 639 405 649 237 649 234 649 214 653 214 653 213 653 213 653 179 649"/></Shape>
+            <Shape><Polygon POINTS="180 642 178 627 403 623 405 639 405 649 237 649 234 649 214 653 213 653 179 649"/></Shape>
 	    <String CONTENT="DAUCHEZ (Maurice)."
                     HPOS="178"
                     VPOS="623"

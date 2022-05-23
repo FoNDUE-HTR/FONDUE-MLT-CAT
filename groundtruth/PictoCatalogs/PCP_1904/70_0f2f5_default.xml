@@ -35,18 +35,18 @@
           
           
           <TextLine ID="eSc_line_92b4ad79"
-                    
-                    BASELINE="509 192 508 74" 
-                    HPOS="488"
-                    VPOS="72"
-                    WIDTH="27"
-                    HEIGHT="119">
-            <Shape><Polygon POINTS="508 191 489 191 488 73 507 73 515 72 514 190"/></Shape>
+                    TAGREFS="LT97"
+                    BASELINE="509 192 508 73" 
+                    HPOS="487"
+                    VPOS="71"
+                    WIDTH="28"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="508 191 489 191 487 72 507 72 515 71 514 190"/></Shape>
 	    <String CONTENT="LA VANNEUSE"
-                    HPOS="488"
-                    VPOS="72"
-                    WIDTH="27"
-                    HEIGHT="119"></String>
+                    HPOS="487"
+                    VPOS="71"
+                    WIDTH="28"
+                    HEIGHT="120"></String>
           </TextLine>
 
           
@@ -68,7 +68,7 @@
           
           
           <TextLine ID="eSc_line_38ed72fa"
-                    
+                    TAGREFS="LT97"
                     BASELINE="534 185 533 80" 
                     HPOS="521"
                     VPOS="74"
