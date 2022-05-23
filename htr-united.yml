@@ -37,4 +37,4 @@ volume:
 - metric: lines
   count: 33726
 - metric: regions
-  count: 8040
+  count: 8032
