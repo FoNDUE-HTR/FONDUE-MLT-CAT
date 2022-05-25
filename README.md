@@ -29,6 +29,8 @@ This repository is developed by Frédérine Pradier.
 - `Katabase`: preparation has been done by Simon Gabay.
 - `ODD`: preparation has been done by Simon Gabay.
 
+## Thanks to
+
 ## Licence
 
 `PictoCatalogs` : the catalogs are in the public domain, images are made available by the Metropolitan Museum of Art under a [CC0](https://creativecommons.org/licenses/by/4.0) license and transcriptions are [CC-BY](https://creativecommons.org/licenses/by/2.0/fr/).
