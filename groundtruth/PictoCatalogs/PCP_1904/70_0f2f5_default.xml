@@ -34,6 +34,23 @@
           <Shape><Polygon POINTS="490 54 490 209 553 209 553 54"/></Shape>
           
           
+          <TextLine ID="eSc_line_38ed72fa"
+                    TAGREFS="LT97"
+                    BASELINE="534 185 535 89 535 80" 
+                    HPOS="511"
+                    VPOS="79"
+                    WIDTH="34"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="533 184 513 183 511 79 534 79 542 79 545 183"/></Shape>
+	    <String CONTENT="par E. WALLON."
+                    HPOS="511"
+                    VPOS="79"
+                    WIDTH="34"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
           <TextLine ID="eSc_line_92b4ad79"
                     TAGREFS="LT97"
                     BASELINE="509 192 508 73" 
@@ -63,27 +80,6 @@
         </TextBlock>
         
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_38ed72fa"
-                    TAGREFS="LT97"
-                    BASELINE="534 185 533 80" 
-                    HPOS="521"
-                    VPOS="74"
-                    WIDTH="19"
-                    HEIGHT="116">
-            <Shape><Polygon POINTS="522 173 521 74 534 74 540 188 531 190 522 189"/></Shape>
-	    <String CONTENT="par E. WALLON."
-                    HPOS="521"
-                    VPOS="74"
-                    WIDTH="19"
-                    HEIGHT="116"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>
