@@ -504,16 +504,6 @@
                    VPOS="208"
                    WIDTH="928"
                    HEIGHT="1600"
-                   ID="eSc_textblock_042d7c31"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="154 208 154 1808 1082 1808 1082 208"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="154"
-                   VPOS="208"
-                   WIDTH="928"
-                   HEIGHT="1600"
                    ID="eSc_textblock_9cf667c7"
                    TAGREFS="BT288">
           <Shape><Polygon POINTS="154 208 154 1808 1078 1808 1082 208"/></Shape>

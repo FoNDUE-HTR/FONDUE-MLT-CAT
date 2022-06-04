@@ -8,8 +8,8 @@
 This repository is composed of several datasets from different research projects. These datasets contain images and transcriptions of historical catalogs (19th and 20th c. prints) and are used to train new models of segmentation and OCR. 
 Segmented zones in the ALTO data presented here are following [SegmOnto guidelines](https://github.com/SegmOnto/Guidelines). 
 
-- `PictoCatalogs` : composed of pictorialist exhibitions catalogs. 
-- `Groupe Annuaires et Adresses` : composed of a directory
+- `PictoCatalogs` : composed of pictorialist exhibitions catalogs (Photo-Club de Paris). 
+- `Groupe Annuaires et Adresses` : composed of a directory. 
 - `IMAGO`: composed of art exhibition catalogs. 
 - `Katabase`: composed of manuscript sales catalogs. 
 - `ODD`: composed of french novels. 
