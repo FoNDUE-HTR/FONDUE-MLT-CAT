@@ -25,7 +25,7 @@ This repository is developed by Frédérine Pradier.
 
 - `PictoCatalogs`: preparation have been done by Frédérine Pradier.
 - `Groupe Annuaires et Adresses`: preparation has been done by Gabriela Elgarrista, under the supervision of Carmen Brando.
-- `IMAGO`: preparation has been done by Caroline Corbières.
+- `IMAGO`: preparation has been done by Juliette Janès, Caroline Corbières and Esteban Sánchez Oeconomo.
 - `Katabase`: preparation has been done by Simon Gabay.
 - `ODD`: preparation has been done by Simon Gabay.
 
