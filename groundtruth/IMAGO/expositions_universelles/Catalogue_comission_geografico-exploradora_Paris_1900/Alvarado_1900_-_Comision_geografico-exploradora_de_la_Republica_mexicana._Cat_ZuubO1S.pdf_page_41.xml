@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Alvarado_1900_-_Comision_geografico-exploradora_de_la_Republica_mexicana._Cat_ZuubO1S.pdf_page_41.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT3708" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT3707" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT3706" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT3705" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT3704" LABEL="CustomZone:entryEnd" DESCRIPTION="block type CustomZone:entryEnd"/><OtherTag ID="BT3703" LABEL="CustomZone:entry" DESCRIPTION="block type CustomZone:entry"/><OtherTag ID="BT3702" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1279" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1266" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="12267"
+          HEIGHT="19436"
+          PHYSICAL_IMG_NR="40"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="12267"
+                  HEIGHT="19436">
+        
+        <TextBlock HPOS="1751"
+                   VPOS="1639"
+                   WIDTH="8112"
+                   HEIGHT="5176"
+                   ID="eSc_textblock_81c12c0b"
+                   TAGREFS="BT3704">
+          <Shape><Polygon POINTS="9863 6790 9837 1639 1751 1639 1751 6815"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="5511"
+                   VPOS="1047"
+                   WIDTH="386"
+                   HEIGHT="464"
+                   ID="eSc_textblock_92889755"
+                   TAGREFS="BT3707">
+          <Shape><Polygon POINTS="5511 1047 5511 1511 5897 1511 5897 1047"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1622"
+                   VPOS="6867"
+                   WIDTH="8241"
+                   HEIGHT="2678"
+                   ID="eSc_textblock_9cfda750"
+                   TAGREFS="BT3703">
+          <Shape><Polygon POINTS="1622 6867 1622 9545 9863 9545 9863 6867"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1648"
+                   VPOS="9725"
+                   WIDTH="8369"
+                   HEIGHT="6644"
+                   ID="eSc_textblock_ed3da8ea"
+                   TAGREFS="BT3703">
+          <Shape><Polygon POINTS="1648 9725 1648 16369 10017 16369 10017 9725"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1648"
+                   VPOS="1588"
+                   WIDTH="8498"
+                   HEIGHT="14833"
+                   ID="eSc_textblock_d0af0ab8"
+                   TAGREFS="BT3702">
+          <Shape><Polygon POINTS="1648 1588 1648 16421 10146 16421 10146 1588"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_f3c5a7a3"
+                    
+                    BASELINE="5477 1376 5849 1344" 
+                    HPOS="5444"
+                    VPOS="1052"
+                    WIDTH="405"
+                    HEIGHT="357">
+            <Shape><Polygon POINTS="5768 1068 5606 1101 5590 1068 5444 1068 5477 1376 5477 1409 5849 1392 5849 1344 5801 1052 5752 1052 5768 1068"/></Shape>
+	    <String CONTENT="39"
+                    HPOS="5444"
+                    VPOS="1052"
+                    WIDTH="405"
+                    HEIGHT="357"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d57275cd"
+                    TAGREFS="LT1266"
+                    BASELINE="3289 1943 9706 1895" 
+                    HPOS="3273"
+                    VPOS="1554"
+                    WIDTH="6433"
+                    HEIGHT="470">
+            <Shape><Polygon POINTS="9431 1733 9269 1716 9107 1716 8945 1716 8782 1700 8620 1700 8458 1700 8296 1684 8134 1684 7972 1684 7810 1668 7648 1668 7486 1668 7324 1652 7162 1652 7000 1652 6838 1635 6676 1635 6514 1635 6352 1619 6190 1619 6028 1619 6011 1603 5914 1635 5704 1554 5687 1554 5671 1554 5655 1554 5639 1554 5639 1571 5558 1635 5266 1619 5217 1619 5055 1619 4893 1635 4731 1635 4569 1635 4407 1635 4245 1652 4083 1652 3921 1652 3759 1668 3597 1668 3435 1668 3419 1652 3273 1668 3289 1943 3289 2024 9690 1975 9706 1895 9674 1733 9593 1733"/></Shape>
+	    <String CONTENT="cunmeridianas de estrella. Presentado pa¬"
+                    HPOS="3273"
+                    VPOS="1554"
+                    WIDTH="6433"
+                    HEIGHT="470"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cabb4886"
+                    TAGREFS="LT1266"
+                    BASELINE="3305 2397 9739 2364" 
+                    HPOS="3305"
+                    VPOS="2024"
+                    WIDTH="6434"
+                    HEIGHT="437">
+            <Shape><Polygon POINTS="3305 2461 9722 2429 9739 2364 9706 2121 9285 2024 9269 2024 9252 2024 9074 2105 8556 2024 8539 2024 8523 2024 8296 2105 7843 2024 7308 2024 7292 2024 7275 2024 7259 2024 7259 2040 7178 2105 6724 2024 6708 2024 6125 2105 5979 2121 5930 2105 5801 2040 5785 2040 5768 2040 5752 2040 5574 2105 5509 2121 5363 2105 4926 2040 4910 2040 3386 2089 3305 2397"/></Shape>
+	    <String CONTENT="ra patentizar el empleo de los tipos im¬"
+                    HPOS="3305"
+                    VPOS="2024"
+                    WIDTH="6434"
+                    HEIGHT="437"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_65bbdcc1"
+                    TAGREFS="LT1266"
+                    BASELINE="3338 2899 9755 2850" 
+                    HPOS="3321"
+                    VPOS="2494"
+                    WIDTH="6434"
+                    HEIGHT="534">
+            <Shape><Polygon POINTS="3338 3028 9739 2915 9755 2850 9722 2591 7826 2494 7810 2494 7794 2494 7551 2591 7470 2591 5590 2510 5574 2510 5558 2510 5282 2607 5250 2623 3321 2623 3338 2899"/></Shape>
+	    <String CONTENT="presos, que están coleccionados en el vo¬"
+                    HPOS="3321"
+                    VPOS="2494"
+                    WIDTH="6434"
+                    HEIGHT="534"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7175e3b6"
+                    TAGREFS="LT1266"
+                    BASELINE="3305 3352 9771 3352" 
+                    HPOS="3305"
+                    VPOS="3077"
+                    WIDTH="6466"
+                    HEIGHT="356">
+            <Shape><Polygon POINTS="3305 3433 9771 3433 9771 3352 9771 3077 3402 3077 3305 3352"/></Shape>
+	    <String CONTENT="lúmen número 73: la impresión en negro"
+                    HPOS="3305"
+                    VPOS="3077"
+                    WIDTH="6466"
+                    HEIGHT="356"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_de660482"
+                    TAGREFS="LT1266"
+                    BASELINE="3338 3838 9771 3806" 
+                    HPOS="3321"
+                    VPOS="3449"
+                    WIDTH="6450"
+                    HEIGHT="454">
+            <Shape><Polygon POINTS="3338 3903 9755 3871 9771 3806 9739 3547 6854 3449 6838 3449 6822 3449 6676 3530 6562 3449 6546 3449 6530 3449 6514 3449 6498 3449 6255 3547 5120 3466 5104 3466 5088 3466 4926 3547 4715 3466 4699 3466 4683 3466 3321 3563 3338 3838"/></Shape>
+	    <String CONTENT="representa la secuela del cálculo, que se"
+                    HPOS="3321"
+                    VPOS="3449"
+                    WIDTH="6450"
+                    HEIGHT="454"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b6a1e518"
+                    TAGREFS="LT1266"
+                    BASELINE="3338 4308 9787 4308" 
+                    HPOS="3338"
+                    VPOS="3919"
+                    WIDTH="6449"
+                    HEIGHT="470">
+            <Shape><Polygon POINTS="3338 4389 9787 4389 9787 4308 9787 4000 9577 3919 9560 3919 9544 3919 9528 3919 9188 4000 7794 3919 7778 3919 7762 3919 7745 3919 7745 3935 7664 4016 6789 4016 6546 3919 6530 3919 6514 3919 6498 3919 6481 3919 6400 4000 6141 3919 6125 3919 6109 3919 5412 4000 5088 3919 5072 3919 5055 3919 5039 3919 5023 3919 5023 3935 4942 4016 4391 4016 4310 3935 4310 3919 4294 3919 4278 3919 3484 3919 3467 3919 3451 3919 3435 3919 3338 3984 3338 4308"/></Shape>
+	    <String CONTENT=" distribuye litografiada, para llenarla en la"
+                    HPOS="3338"
+                    VPOS="3919"
+                    WIDTH="6449"
+                    HEIGHT="470"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d5b9a2a5"
+                    TAGREFS="LT1266"
+                    BASELINE="3354 4761 9706 4826" 
+                    HPOS="3338"
+                    VPOS="4389"
+                    WIDTH="6368"
+                    HEIGHT="486">
+            <Shape><Polygon POINTS="3338 4810 9674 4875 9706 4826 9658 4437 9463 4518 9252 4437 9236 4437 9220 4437 9171 4437 8637 4518 8102 4437 8021 4437 8005 4437 7583 4437 6044 4486 5979 4454 5882 4405 5866 4405 5849 4405 5331 4454 4958 4486 4861 4454 4699 4389 4683 4389 4666 4389 3354 4454 3354 4761"/></Shape>
+	    <String CONTENT="aplicacion con lo que aparece en rojo, y"
+                    HPOS="3338"
+                    VPOS="4389"
+                    WIDTH="6368"
+                    HEIGHT="486"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_15612b29"
+                    TAGREFS="LT1266"
+                    BASELINE="3370 5263 9771 5231" 
+                    HPOS="3354"
+                    VPOS="4891"
+                    WIDTH="6417"
+                    HEIGHT="453">
+            <Shape><Polygon POINTS="3370 5344 9755 5312 9771 5231 9739 4907 3791 4891 3775 4891 3354 4972 3370 5263"/></Shape>
+	    <String CONTENT="naturalmente es manuscrito sobre los ori"
+                    HPOS="3354"
+                    VPOS="4891"
+                    WIDTH="6417"
+                    HEIGHT="453"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ae8656d8"
+                    TAGREFS="LT1266"
+                    BASELINE="3370 5766 9787 5701" 
+                    HPOS="3354"
+                    VPOS="5328"
+                    WIDTH="6433"
+                    HEIGHT="535">
+            <Shape><Polygon POINTS="3370 5863 9787 5749 9787 5701 9755 5442 8167 5328 8150 5328 8134 5328 7810 5442 6854 5344 6838 5344 5477 5458 4958 5361 4942 5361 4926 5361 4602 5474 3532 5377 3516 5377 3500 5377 3484 5377 3354 5458 3370 5766"/></Shape>
+	    <String CONTENT="ginales. Para este cuadro se eligió un ca¬"
+                    HPOS="3354"
+                    VPOS="5328"
+                    WIDTH="6433"
+                    HEIGHT="535"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dbbabe43"
+                    TAGREFS="LT1266"
+                    BASELINE="3354 6203 9771 6170" 
+                    HPOS="3338"
+                    VPOS="5895"
+                    WIDTH="6433"
+                    HEIGHT="389">
+            <Shape><Polygon POINTS="3354 6284 9755 6268 9771 6170 9722 5895 3338 5911 3354 6203"/></Shape>
+	    <String CONTENT="so en que varias cantidades resultan nulas"
+                    HPOS="3338"
+                    VPOS="5895"
+                    WIDTH="6433"
+                    HEIGHT="389"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_22ada2b0"
+                    TAGREFS="LT1266"
+                    BASELINE="3370 6673 8296 6673" 
+                    HPOS="3370"
+                    VPOS="6300"
+                    WIDTH="4926"
+                    HEIGHT="454">
+            <Shape><Polygon POINTS="3370 6754 8296 6754 8296 6673 8296 6397 5979 6300 5963 6300 5947 6300 5930 6300 5849 6381 5606 6300 5590 6300 5574 6300 5558 6300 5217 6381 4942 6300 4926 6300 4910 6300 4245 6381 4067 6300 4051 6300 4034 6300 3370 6381 3370 6673"/></Shape>
+	    <String CONTENT="en el empleo de los logaritmos."
+                    HPOS="3370"
+                    VPOS="6300"
+                    WIDTH="4926"
+                    HEIGHT="454"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_30e84bb5"
+                    TAGREFS="LT1266"
+                    BASELINE="1604 7142 9787 7142" 
+                    HPOS="1604"
+                    VPOS="6786"
+                    WIDTH="8183"
+                    HEIGHT="453">
+            <Shape><Polygon POINTS="1604 7239 9787 7239 9787 7142 9787 6786 1766 6786 1604 6786 1604 7142"/></Shape>
+	    <String CONTENT="Núm. 57. Este número es una de las láminas del"
+                    HPOS="1604"
+                    VPOS="6786"
+                    WIDTH="8183"
+                    HEIGHT="453"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_777e55e8"
+                    TAGREFS="LT1266"
+                    BASELINE="3402 7612 9803 7612" 
+                    HPOS="3402"
+                    VPOS="7239"
+                    WIDTH="6401"
+                    HEIGHT="454">
+            <Shape><Polygon POINTS="3402 7693 9803 7677 9803 7612 9803 7320 9463 7239 9447 7239 9431 7239 6384 7320 5979 7239 5963 7239 5947 7239 5655 7320 5444 7239 5428 7239 5412 7239 5396 7239 5104 7320 4942 7239 4926 7239 4910 7239 4893 7239 4537 7320 3500 7239 3484 7239 3467 7239 3451 7239 3451 7256 3402 7304 3402 7612"/></Shape>
+	    <String CONTENT=" Reglamento de signos y caracteres usados"
+                    HPOS="3402"
+                    VPOS="7239"
+                    WIDTH="6401"
+                    HEIGHT="454"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3ebda1b2"
+                    TAGREFS="LT1266"
+                    BASELINE="3402 8114 9836 8082" 
+                    HPOS="3386"
+                    VPOS="7693"
+                    WIDTH="6450"
+                    HEIGHT="551">
+            <Shape><Polygon POINTS="3402 8244 9820 8146 9836 8082 9803 7774 7113 7693 7097 7693 6579 7774 4051 7709 4034 7709 3386 7790 3402 8114"/></Shape>
+	    <String CONTENT="por la Comisión Geográfico-Exploradora"
+                    HPOS="3386"
+                    VPOS="7693"
+                    WIDTH="6450"
+                    HEIGHT="551"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c499bf2b"
+                    TAGREFS="LT1266"
+                    BASELINE="3402 8568 9836 8535" 
+                    HPOS="3386"
+                    VPOS="8179"
+                    WIDTH="6450"
+                    HEIGHT="518">
+            <Shape><Polygon POINTS="3402 8697 9820 8600 9836 8535 9803 8276 6903 8179 6887 8179 6870 8179 6854 8179 6854 8195 6773 8260 4342 8195 4326 8195 4310 8195 4294 8195 4180 8292 3386 8292 3402 8568"/></Shape>
+	    <String CONTENT="para el dibujo de sus Cartas, y es la que"
+                    HPOS="3386"
+                    VPOS="8179"
+                    WIDTH="6450"
+                    HEIGHT="518"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9a66089c"
+                    TAGREFS="LT1266"
+                    BASELINE="3419 9037 9836 9005" 
+                    HPOS="3402"
+                    VPOS="8649"
+                    WIDTH="6434"
+                    HEIGHT="534">
+            <Shape><Polygon POINTS="6627 8649 6611 8649 6595 8649 6433 8730 3743 8665 3727 8665 3710 8665 3402 8746 3419 9037 3419 9183 9820 9086 9836 9005 9820 8940 9755 8713"/></Shape>
+	    <String CONTENT="principalmente se refiere á las Cartas geo¬"
+                    HPOS="3402"
+                    VPOS="8649"
+                    WIDTH="6434"
+                    HEIGHT="534"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8e6c4db3"
+                    TAGREFS="LT1266"
+                    BASELINE="3402 9523 6352 9475" 
+                    HPOS="3386"
+                    VPOS="9183"
+                    WIDTH="2966"
+                    HEIGHT="437">
+            <Shape><Polygon POINTS="3402 9620 6336 9556 6352 9475 6303 9183 3386 9215 3402 9523"/></Shape>
+	    <String CONTENT="gráficas expuestas."
+                    HPOS="3386"
+                    VPOS="9183"
+                    WIDTH="2966"
+                    HEIGHT="437"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_42f5ba15"
+                    TAGREFS="LT1266"
+                    BASELINE="1620 9977 9836 9928" 
+                    HPOS="1620"
+                    VPOS="9556"
+                    WIDTH="8216"
+                    HEIGHT="583">
+            <Shape><Polygon POINTS="1766 9637 1620 9977 1620 10058 3532 10058 3548 10058 3824 10139 3840 10139 3856 10139 3872 10139 4180 10058 4294 10139 4310 10139 4326 10139 4342 10139 4747 10041 4796 10041 5023 10041 6951 10122 6968 10122 7373 10025 7389 10025 7405 10025 7470 10090 7470 10106 7486 10106 7502 10106 7519 10106 8248 10025 8296 10025 8361 10025 9544 10106 9560 10106 9577 10106 9836 10009 9836 9928 9803 9669 8637 9556 8620 9556 8604 9556 8588 9556 8588 9572 8491 9669 8134 9669 7583 9556 7567 9556 7032 9669 7016 9685 6287 9685 6287 9669 6125 9572 6109 9572 6092 9572 6076 9572 4440 9685 4342 9685 4326 9685 4197 9588 4180 9588 4164 9588 4148 9588 4132 9588 3921 9685 3856 9685 2706 9588 2689 9588 2673 9588 2430 9685 1960 9604 1928 9620"/></Shape>
+	    <String CONTENT="Núm. 58. Papel para esquicios topográficos del Inge¬"
+                    HPOS="1620"
+                    VPOS="9556"
+                    WIDTH="8216"
+                    HEIGHT="583"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_43fa1c2b"
+                    TAGREFS="LT1266"
+                    BASELINE="3402 10446 9868 10414" 
+                    HPOS="3386"
+                    VPOS="10041"
+                    WIDTH="6482"
+                    HEIGHT="438">
+            <Shape><Polygon POINTS="3402 10479 9868 10479 9868 10414 9836 10139 6627 10041 6611 10041 6595 10041 6400 10139 3662 10058 3646 10058 3629 10058 3386 10155 3402 10446"/></Shape>
+	    <String CONTENT="niero Agustín Díaz, Este cuadro presenta"
+                    HPOS="3386"
+                    VPOS="10041"
+                    WIDTH="6482"
+                    HEIGHT="438"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_45f426dc"
+                    TAGREFS="LT1266"
+                    BASELINE="3435 10916 9868 10884" 
+                    HPOS="3419"
+                    VPOS="10527"
+                    WIDTH="6449"
+                    HEIGHT="454">
+            <Shape><Polygon POINTS="3435 10981 9852 10948 9868 10884 9836 10608 6692 10527 6676 10527 6660 10527 6433 10608 5671 10544 5655 10544 3419 10625 3435 10916"/></Shape>
+	    <String CONTENT="una comparación entre los resultados de"
+                    HPOS="3419"
+                    VPOS="10527"
+                    WIDTH="6449"
+                    HEIGHT="454"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4c52a96b"
+                    TAGREFS="LT1266"
+                    BASELINE="3435 11402 9868 11353" 
+                    HPOS="3419"
+                    VPOS="11029"
+                    WIDTH="6449"
+                    HEIGHT="438">
+            <Shape><Polygon POINTS="3435 11467 9852 11434 9868 11353 9820 11029 3419 11110 3435 11402"/></Shape>
+	    <String CONTENT="un camino trazado á mano, apreciando á"
+                    HPOS="3419"
+                    VPOS="11029"
+                    WIDTH="6449"
+                    HEIGHT="438"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5c851f12"
+                    TAGREFS="LT1266"
+                    BASELINE="3435 11872 9852 11872" 
+                    HPOS="3435"
+                    VPOS="11515"
+                    WIDTH="6417"
+                    HEIGHT="470">
+            <Shape><Polygon POINTS="3435 11936 9836 11985 9852 11872 9852 11564 3435 11515 3435 11872"/></Shape>
+	    <String CONTENT=" la simple vista las direcciones y distancias,"
+                    HPOS="3435"
+                    VPOS="11515"
+                    WIDTH="6417"
+                    HEIGHT="470"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9449ceaf"
+                    TAGREFS="LT1266"
+                    BASELINE="3435 12374 9868 12309" 
+                    HPOS="3419"
+                    VPOS="11936"
+                    WIDTH="6449"
+                    HEIGHT="551">
+            <Shape><Polygon POINTS="3435 12487 9852 12374 9868 12309 9836 12034 8620 11936 8604 11936 8588 11936 8215 12034 6903 11953 6887 11953 5882 12050 5023 11969 5007 11969 4278 12066 3743 11985 3727 11985 3710 11985 3419 12082 3435 12374"/></Shape>
+	    <String CONTENT="y los resultados del mismo croquis cons¬"
+                    HPOS="3419"
+                    VPOS="11936"
+                    WIDTH="6449"
+                    HEIGHT="551"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_63f1f906"
+                    TAGREFS="LT1266"
+                    BASELINE="3435 12827 9868 12795" 
+                    HPOS="3419"
+                    VPOS="12439"
+                    WIDTH="6449"
+                    HEIGHT="453">
+            <Shape><Polygon POINTS="3435 12892 9852 12876 9868 12795 9836 12520 6692 12439 6676 12439 6190 12520 3516 12455 3500 12455 3484 12455 3467 12455 3467 12471 3419 12503 3435 12827"/></Shape>
+	    <String CONTENT="truído al transportador y al compás con"
+                    HPOS="3419"
+                    VPOS="12439"
+                    WIDTH="6449"
+                    HEIGHT="453"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3f08a8b6"
+                    TAGREFS="LT1266"
+                    BASELINE="3435 13297 9868 13297" 
+                    HPOS="3435"
+                    VPOS="13022"
+                    WIDTH="6433"
+                    HEIGHT="356">
+            <Shape><Polygon POINTS="3435 13297 3435 13378 9868 13378 9868 13297 9868 13022 3516 13022 3435 13184"/></Shape>
+	    <String CONTENT="los mismos datos numéricos de campo."
+                    HPOS="3435"
+                    VPOS="13022"
+                    WIDTH="6433"
+                    HEIGHT="356"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fac0c29d"
+                    TAGREFS="LT1266"
+                    BASELINE="3435 13783 9868 13750" 
+                    HPOS="3419"
+                    VPOS="13443"
+                    WIDTH="6449"
+                    HEIGHT="405">
+            <Shape><Polygon POINTS="3435 13848 9852 13815 9868 13750 9836 13459 3419 13443 3435 13783"/></Shape>
+	    <String CONTENT="Estos datos están inscritos en lápiz sobre"
+                    HPOS="3419"
+                    VPOS="13443"
+                    WIDTH="6449"
+                    HEIGHT="405"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_04b19cdf"
+                    TAGREFS="LT1266"
+                    BASELINE="3435 14269 9884 14220" 
+                    HPOS="3419"
+                    VPOS="13880"
+                    WIDTH="6465"
+                    HEIGHT="454">
+            <Shape><Polygon POINTS="3435 14334 9868 14285 9884 14220 9852 13929 3613 13880 3597 13880 3581 13880 3419 13945 3435 14269"/></Shape>
+	    <String CONTENT="el borrador y se adquieren por el empleo"
+                    HPOS="3419"
+                    VPOS="13880"
+                    WIDTH="6465"
+                    HEIGHT="454"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_503f5329"
+                    TAGREFS="LT1266"
+                    BASELINE="3451 14738 9884 14674" 
+                    HPOS="3435"
+                    VPOS="14301"
+                    WIDTH="6449"
+                    HEIGHT="518">
+            <Shape><Polygon POINTS="3451 14819 9868 14755 9884 14674 9868 14382 9577 14301 9560 14301 9544 14301 9528 14301 9512 14301 9512 14317 9431 14382 9431 14398 8005 14398 7988 14398 7778 14317 7762 14317 7745 14317 7729 14317 7454 14398 6854 14317 6838 14317 6060 14415 6044 14415 5039 14334 5023 14334 5007 14334 4715 14431 4699 14431 3548 14350 3532 14350 3516 14350 3500 14350 3435 14382 3451 14738"/></Shape>
+	    <String CONTENT="del perambulador, brújula de mano, eclí¬"
+                    HPOS="3435"
+                    VPOS="14301"
+                    WIDTH="6449"
+                    HEIGHT="518"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1ebe208f"
+                    TAGREFS="LT1266"
+                    BASELINE="3451 15224 9901 15160" 
+                    HPOS="3435"
+                    VPOS="14819"
+                    WIDTH="6466"
+                    HEIGHT="486">
+            <Shape><Polygon POINTS="3451 15305 9884 15241 9901 15160 9868 14884 6757 14819 6741 14819 3435 14933 3451 15224"/></Shape>
+	    <String CONTENT="metro de perpendículo y barómetro ane¬"
+                    HPOS="3435"
+                    VPOS="14819"
+                    WIDTH="6466"
+                    HEIGHT="486"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6d20817d"
+                    TAGREFS="LT1266"
+                    BASELINE="3467 15694 9901 15645" 
+                    HPOS="3451"
+                    VPOS="15305"
+                    WIDTH="6450"
+                    HEIGHT="454">
+            <Shape><Polygon POINTS="3467 15759 9884 15710 9901 15645 9868 15370 5882 15305 5866 15305 5849 15305 5606 15386 3775 15322 3759 15322 3743 15322 3451 15403 3467 15694"/></Shape>
+	    <String CONTENT="roide, sin que el operador tenga que des¬"
+                    HPOS="3451"
+                    VPOS="15305"
+                    WIDTH="6450"
+                    HEIGHT="454"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_36e8bbc9"
+                    TAGREFS="LT1266"
+                    BASELINE="3484 16164 9917 16131" 
+                    HPOS="3467"
+                    VPOS="15759"
+                    WIDTH="6450"
+                    HEIGHT="534">
+            <Shape><Polygon POINTS="3484 16229 7162 16212 7211 16212 7454 16293 7470 16293 7486 16293 7875 16212 7924 16212 7972 16212 8458 16293 8475 16293 9917 16196 9917 16131 9901 15856 9690 15759 9674 15759 9658 15759 9641 15759 9317 15840 9155 15759 9139 15759 9123 15759 8588 15840 8053 15759 8037 15759 8021 15759 7843 15856 6676 15856 6352 15775 6336 15775 6319 15775 5331 15856 4845 15775 4829 15775 4812 15775 4634 15856 4213 15775 4197 15775 3467 15872 3484 16164"/></Shape>
+	    <String CONTENT="montar del caballo en que viaja. Por la"
+                    HPOS="3467"
+                    VPOS="15759"
+                    WIDTH="6450"
+                    HEIGHT="534"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
