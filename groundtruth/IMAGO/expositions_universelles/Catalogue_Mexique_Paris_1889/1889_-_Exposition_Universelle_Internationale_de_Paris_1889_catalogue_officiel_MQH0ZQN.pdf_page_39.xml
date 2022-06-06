@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>1889_-_Exposition_Universelle_Internationale_de_Paris_1889_catalogue_officiel_MQH0ZQN.pdf_page_39.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT3722" LABEL="CustomZone:class" DESCRIPTION="block type CustomZone:class"/><OtherTag ID="BT3720" LABEL="CustomZone:group" DESCRIPTION="block type CustomZone:group"/><OtherTag ID="BT3701" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT3700" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT3699" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT3698" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT3697" LABEL="CustomZone:entryEnd" DESCRIPTION="block type CustomZone:entryEnd"/><OtherTag ID="BT3696" LABEL="CustomZone:entry" DESCRIPTION="block type CustomZone:entry"/><OtherTag ID="BT3695" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1263" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT1264" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4267"
+          HEIGHT="6034"
+          PHYSICAL_IMG_NR="38"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4267"
+                  HEIGHT="6034">
+        
+        <TextBlock HPOS="1971"
+                   VPOS="775"
+                   WIDTH="373"
+                   HEIGHT="89"
+                   ID="eSc_textblock_92a7e40f"
+                   TAGREFS="BT3701">
+          <Shape><Polygon POINTS="1971 775 1971 864 2344 864 2344 775"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="3100"
+                   VPOS="795"
+                   WIDTH="110"
+                   HEIGHT="69"
+                   ID="eSc_textblock_1848cf12"
+                   TAGREFS="BT3700">
+          <Shape><Polygon POINTS="3100 795 3100 864 3210 864 3210 795"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1692"
+                   VPOS="1720"
+                   WIDTH="930"
+                   HEIGHT="244"
+                   ID="eSc_textblock_58663e5e"
+                   TAGREFS="BT3722">
+          <Shape><Polygon POINTS="1692 1720 1692 1964 2622 1964 2622 1720"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1135"
+                   VPOS="898"
+                   WIDTH="2075"
+                   HEIGHT="393"
+                   ID="eSc_textblock_82f7770a"
+                   TAGREFS="BT3696">
+          <Shape><Polygon POINTS="1135 898 1135 1291 3210 1291 3210 898"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1149"
+                   VPOS="1331"
+                   WIDTH="2061"
+                   HEIGHT="169"
+                   ID="eSc_textblock_c3835844"
+                   TAGREFS="BT3696">
+          <Shape><Polygon POINTS="1149 1331 1149 1500 3210 1500 3210 1331"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1145"
+                   VPOS="2202"
+                   WIDTH="1990"
+                   HEIGHT="472"
+                   ID="eSc_textblock_5c339ad9"
+                   TAGREFS="BT3696">
+          <Shape><Polygon POINTS="1145 2202 1145 2674 3135 2674 3135 2202"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1125"
+                   VPOS="2699"
+                   WIDTH="2015"
+                   HEIGHT="184"
+                   ID="eSc_textblock_8eb695e9"
+                   TAGREFS="BT3696">
+          <Shape><Polygon POINTS="1125 2699 1125 2883 3140 2883 3140 2699"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1125"
+                   VPOS="2913"
+                   WIDTH="2065"
+                   HEIGHT="249"
+                   ID="eSc_textblock_69e2b069"
+                   TAGREFS="BT3696">
+          <Shape><Polygon POINTS="1125 2913 1125 3162 3190 3162 3190 2913"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1125"
+                   VPOS="3192"
+                   WIDTH="2055"
+                   HEIGHT="174"
+                   ID="eSc_textblock_0744c8c5"
+                   TAGREFS="BT3696">
+          <Shape><Polygon POINTS="1125 3192 1125 3366 3180 3366 3180 3192"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1125"
+                   VPOS="4113"
+                   WIDTH="2035"
+                   HEIGHT="169"
+                   ID="eSc_textblock_7d09b3b2"
+                   TAGREFS="BT3696">
+          <Shape><Polygon POINTS="1125 4113 1125 4282 3160 4282 3160 4113"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1130"
+                   VPOS="3545"
+                   WIDTH="2025"
+                   HEIGHT="179"
+                   ID="eSc_textblock_32505af1"
+                   TAGREFS="BT3696">
+          <Shape><Polygon POINTS="1130 3545 1130 3724 3155 3724 3155 3545"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1135"
+                   VPOS="3889"
+                   WIDTH="2015"
+                   HEIGHT="179"
+                   ID="eSc_textblock_68c69d36"
+                   TAGREFS="BT3696">
+          <Shape><Polygon POINTS="1135 3889 1135 4068 3150 4068 3150 3889"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1105"
+                   VPOS="878"
+                   WIDTH="2129"
+                   HEIGHT="3434"
+                   ID="eSc_textblock_49f922f5"
+                   TAGREFS="BT3695">
+          <Shape><Polygon POINTS="1110 878 1105 4312 3185 4307 3234 878"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

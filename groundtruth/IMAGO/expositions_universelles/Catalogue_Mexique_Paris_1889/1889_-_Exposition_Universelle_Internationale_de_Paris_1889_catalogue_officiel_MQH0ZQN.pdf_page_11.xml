@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>1889_-_Exposition_Universelle_Internationale_de_Paris_1889_catalogue_officiel_MQH0ZQN.pdf_page_11.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT3722" LABEL="CustomZone:class" DESCRIPTION="block type CustomZone:class"/><OtherTag ID="BT3720" LABEL="CustomZone:group" DESCRIPTION="block type CustomZone:group"/><OtherTag ID="BT3701" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT3700" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT3699" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT3698" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT3697" LABEL="CustomZone:entryEnd" DESCRIPTION="block type CustomZone:entryEnd"/><OtherTag ID="BT3696" LABEL="CustomZone:entry" DESCRIPTION="block type CustomZone:entry"/><OtherTag ID="BT3695" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1263" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT1264" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4267"
+          HEIGHT="6034"
+          PHYSICAL_IMG_NR="10"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4267"
+                  HEIGHT="6034">
+        
+        <TextBlock HPOS="3129"
+                   VPOS="793"
+                   WIDTH="74"
+                   HEIGHT="94"
+                   ID="eSc_textblock_82e6c162"
+                   >
+          <Shape><Polygon POINTS="3129 793 3129 887 3203 887 3203 793"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_054e963c"
+                    
+                    BASELINE="3129 872 3218 872" 
+                    HPOS="3124"
+                    VPOS="799"
+                    WIDTH="91"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="3124 869 3124 890 3215 890 3215 869 3215 799 3124 799 3124 869"/></Shape>
+	    <String CONTENT="7"
+                    HPOS="3124"
+                    VPOS="799"
+                    WIDTH="91"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1935"
+                   VPOS="798"
+                   WIDTH="474"
+                   HEIGHT="99"
+                   ID="eSc_textblock_96056ac7"
+                   TAGREFS="BT3701">
+          <Shape><Polygon POINTS="1935 798 1935 897 2409 897 2409 798"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1639"
+                   VPOS="986"
+                   WIDTH="1046"
+                   HEIGHT="207"
+                   ID="eSc_textblock_d7ca40ee"
+                   TAGREFS="BT3722">
+          <Shape><Polygon POINTS="1639 986 1639 1193 2685 1193 2685 986"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1105"
+                   VPOS="1390"
+                   WIDTH="2224"
+                   HEIGHT="253"
+                   ID="eSc_textblock_2d24892a"
+                   TAGREFS="BT3696">
+          <Shape><Polygon POINTS="1105 1390 1111 1631 3317 1643 3329 1414"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1071"
+                   VPOS="953"
+                   WIDTH="2332"
+                   HEIGHT="4428"
+                   ID="eSc_textblock_107989b6"
+                   TAGREFS="BT3695">
+          <Shape><Polygon POINTS="1071 953 1110 5381 3315 5344 3403 955"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_6c44d23b"
+                    
+                    BASELINE="1972 869 2379 869" 
+                    HPOS="1967"
+                    VPOS="794"
+                    WIDTH="408"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="1967 864 1967 890 2375 890 2375 864 2375 794 1967 794 1967 864"/></Shape>
+	    <String CONTENT="CATALOGUE."
+                    HPOS="1967"
+                    VPOS="794"
+                    WIDTH="408"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d439b68c"
+                    TAGREFS="LT1263"
+                    BASELINE="1710 1161 2651 1161" 
+                    HPOS="1710"
+                    VPOS="1081"
+                    WIDTH="941"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="1710 1191 2651 1191 2651 1161 2651 1081 1710 1081 1710 1161"/></Shape>
+	    <String CONTENT="Gravure et Lithgraphie."
+                    HPOS="1710"
+                    VPOS="1081"
+                    WIDTH="941"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_abb27995"
+                    TAGREFS="LT1263"
+                    BASELINE="1987 1075 2395 1070" 
+                    HPOS="1977"
+                    VPOS="980"
+                    WIDTH="413"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="1982 1086 2385 1081 2390 1066 2375 980 1977 980 1982 1071"/></Shape>
+	    <String CONTENT="CLASSE 5"
+                    HPOS="1977"
+                    VPOS="980"
+                    WIDTH="413"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a0bde491"
+                    TAGREFS="LT1264"
+                    BASELINE="1147 1453 1826 1458" 
+                    HPOS="1137"
+                    VPOS="1367"
+                    WIDTH="684"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="1137 1468 1811 1473 1821 1453 1816 1372 1142 1367 1142 1448"/></Shape>
+	    <String CONTENT="PORTILLO MIGUEL."
+                    HPOS="1137"
+                    VPOS="1367"
+                    WIDTH="684"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2cf219eb"
+                    TAGREFS="LT1263"
+                    BASELINE="1846 1402 2510 1387" 
+                    HPOS="1836"
+                    VPOS="1297"
+                    WIDTH="669"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="1841 1412 2505 1397 2505 1382 2490 1297 1836 1307 1841 1397"/></Shape>
+	    <String CONTENT="DISTRICT FÉDÉRAL."
+                    HPOS="1836"
+                    VPOS="1297"
+                    WIDTH="669"
+                    HEIGHT="115"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e3d760f4"
+                    TAGREFS="LT1264"
+                    BASELINE="1289 1561 3229 1546" 
+                    HPOS="1283"
+                    VPOS="1468"
+                    WIDTH="1942"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="1288 1568 3225 1558 3225 1543 3210 1468 1283 1468 1288 1558"/></Shape>
+	    <String CONTENT="147. — 1. Château de Émans. (Gravure noire, d’après le tableau de"
+                    HPOS="1283"
+                    VPOS="1468"
+                    WIDTH="1942"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dd3bce1f"
+                    TAGREFS="LT1264"
+                    BASELINE="1697 1626 2020 1626" 
+                    HPOS="1695"
+                    VPOS="1543"
+                    WIDTH="322"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="1695 1649 2017 1644 2017 1624 2017 1548 1695 1543 1695 1624"/></Shape>
+	    <String CONTENT="Zurbarán.)"
+                    HPOS="1695"
+                    VPOS="1543"
+                    WIDTH="322"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

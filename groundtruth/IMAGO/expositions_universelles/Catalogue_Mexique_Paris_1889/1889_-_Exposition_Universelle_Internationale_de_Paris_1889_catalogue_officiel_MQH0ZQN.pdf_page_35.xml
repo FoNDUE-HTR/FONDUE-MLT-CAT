@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>1889_-_Exposition_Universelle_Internationale_de_Paris_1889_catalogue_officiel_MQH0ZQN.pdf_page_35.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT3722" LABEL="CustomZone:class" DESCRIPTION="block type CustomZone:class"/><OtherTag ID="BT3720" LABEL="CustomZone:group" DESCRIPTION="block type CustomZone:group"/><OtherTag ID="BT3701" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT3700" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT3699" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT3698" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT3697" LABEL="CustomZone:entryEnd" DESCRIPTION="block type CustomZone:entryEnd"/><OtherTag ID="BT3696" LABEL="CustomZone:entry" DESCRIPTION="block type CustomZone:entry"/><OtherTag ID="BT3695" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1263" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT1264" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4267"
+          HEIGHT="6034"
+          PHYSICAL_IMG_NR="34"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4267"
+                  HEIGHT="6034">
+        
+        <TextBlock HPOS="3060"
+                   VPOS="606"
+                   WIDTH="165"
+                   HEIGHT="79"
+                   ID="eSc_textblock_74c8e509"
+                   TAGREFS="BT3700">
+          <Shape><Polygon POINTS="3065 606 3060 685 3225 685 3225 606"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1921"
+                   VPOS="591"
+                   WIDTH="443"
+                   HEIGHT="104"
+                   ID="eSc_textblock_cacadc33"
+                   TAGREFS="BT3701">
+          <Shape><Polygon POINTS="1926 591 1921 680 2364 695 2354 591"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1100"
+                   VPOS="1143"
+                   WIDTH="2149"
+                   HEIGHT="403"
+                   ID="eSc_textblock_0ac56ce6"
+                   TAGREFS="BT3696">
+          <Shape><Polygon POINTS="1105 1143 1100 1546 3239 1546 3249 1163"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1090"
+                   VPOS="1715"
+                   WIDTH="2154"
+                   HEIGHT="324"
+                   ID="eSc_textblock_a7426f95"
+                   TAGREFS="BT3696">
+          <Shape><Polygon POINTS="1090 1730 1100 2039 3244 2039 3244 1715"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1090"
+                   VPOS="2213"
+                   WIDTH="2144"
+                   HEIGHT="184"
+                   ID="eSc_textblock_f9f9aeb5"
+                   TAGREFS="BT3696">
+          <Shape><Polygon POINTS="1090 2213 1090 2392 3229 2397 3234 2223"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1045"
+                   VPOS="3681"
+                   WIDTH="2194"
+                   HEIGHT="418"
+                   ID="eSc_textblock_6ed7c51a"
+                   TAGREFS="BT3696">
+          <Shape><Polygon POINTS="1045 3681 1045 4099 3239 4094 3229 3681"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1120"
+                   VPOS="729"
+                   WIDTH="2090"
+                   HEIGHT="229"
+                   ID="eSc_textblock_79236922"
+                   TAGREFS="BT3697">
+          <Shape><Polygon POINTS="1120 729 1120 958 3210 958 3210 729"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1090"
+                   VPOS="2436"
+                   WIDTH="2159"
+                   HEIGHT="179"
+                   ID="eSc_textblock_2335836a"
+                   TAGREFS="BT3696">
+          <Shape><Polygon POINTS="1090 2436 1090 2615 3249 2615 3249 2436"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1105"
+                   VPOS="2645"
+                   WIDTH="2134"
+                   HEIGHT="224"
+                   ID="eSc_textblock_3ca088cc"
+                   TAGREFS="BT3696">
+          <Shape><Polygon POINTS="1105 2645 1105 2869 3239 2869 3239 2665"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1080"
+                   VPOS="3073"
+                   WIDTH="2115"
+                   HEIGHT="228"
+                   ID="eSc_textblock_506b8293"
+                   TAGREFS="BT3696">
+          <Shape><Polygon POINTS="1080 3073 1080 3301 3195 3301 3195 3073"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1075"
+                   VPOS="3356"
+                   WIDTH="2125"
+                   HEIGHT="164"
+                   ID="eSc_textblock_29ef509a"
+                   TAGREFS="BT3696">
+          <Shape><Polygon POINTS="1075 3356 1075 3520 3200 3520 3200 3356"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1025"
+                   VPOS="704"
+                   WIDTH="2234"
+                   HEIGHT="3419"
+                   ID="eSc_textblock_b77bf660"
+                   TAGREFS="BT3695">
+          <Shape><Polygon POINTS="1095 704 1025 4123 3259 4113 3259 714"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_d6899db0"
+                    
+                    BASELINE="1947 668 2339 668" 
+                    HPOS="1947"
+                    VPOS="593"
+                    WIDTH="392"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="2299 603 2249 603 2198 603 2148 603 2098 603 2047 603 1997 603 1947 593 1947 668 1947 698 2339 698 2339 668 2329 623 2299 603"/></Shape>
+	    <String CONTENT=" CATALOGUE."
+                    HPOS="1947"
+                    VPOS="593"
+                    WIDTH="392"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a77b4f8f"
+                    
+                    BASELINE="3100 680 3189 685" 
+                    HPOS="3094"
+                    VPOS="588"
+                    WIDTH="91"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="3099 678 3094 698 3180 698 3185 683 3180 603 3099 588 3099 678"/></Shape>
+	    <String CONTENT="31"
+                    HPOS="3094"
+                    VPOS="588"
+                    WIDTH="91"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_210b16d6"
+                    TAGREFS="LT1264"
+                    BASELINE="1101 789 2073 779" 
+                    HPOS="1096"
+                    VPOS="698"
+                    WIDTH="977"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="1851 703 1801 703 1751 703 1700 708 1650 708 1600 708 1549 708 1499 714 1449 714 1398 714 1348 714 1298 719 1247 719 1197 719 1147 719 1096 714 1101 789 1101 809 2073 804 2073 779 2063 708 1902 698 1902 703"/></Shape>
+	    <String CONTENT="MARIANO LEAL. (Guanajuato.)"
+                    HPOS="1096"
+                    VPOS="698"
+                    WIDTH="977"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a391c471"
+                    TAGREFS="LT1264"
+                    BASELINE="1237 884 3180 884" 
+                    HPOS="1237"
+                    VPOS="804"
+                    WIDTH="1943"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="3099 839 3049 834 2998 829 2948 829 2898 824 2848 824 2797 819 2747 819 2697 814 2646 814 2596 809 2546 809 2525 804 1237 804 1237 884 1237 910 3180 910 3180 884 3159 849 3149 839"/></Shape>
+	    <String CONTENT="586. — 139. Observations météorologiques faites à l’Observatoire"
+                    HPOS="1237"
+                    VPOS="804"
+                    WIDTH="1943"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d2091dc1"
+                    TAGREFS="LT1264"
+                    BASELINE="1625 955 2234 955" 
+                    HPOS="1625"
+                    VPOS="890"
+                    WIDTH="609"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="2178 890 2128 890 2078 890 2027 890 1977 890 1927 890 1876 890 1826 890 1776 890 1725 890 1675 890 1625 890 1625 955 1625 985 2234 985 2234 955 2234 890 2229 890"/></Shape>
+	    <String CONTENT="de Leon, 25 feuillets."
+                    HPOS="1625"
+                    VPOS="890"
+                    WIDTH="609"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7dcbad5e"
+                    TAGREFS="LT1263"
+                    BASELINE="1791 1101 2480 1101" 
+                    HPOS="1791"
+                    VPOS="1020"
+                    WIDTH="689"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="2400 1020 1801 1020 1791 1035 1791 1101 1791 1131 2480 1131 2480 1101 2480 1020 2460 1020 2445 1066"/></Shape>
+	    <String CONTENT="ETAT DE GUERRERO."
+                    HPOS="1791"
+                    VPOS="1020"
+                    WIDTH="689"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a9a43e02"
+                    TAGREFS="LT1264"
+                    BASELINE="1107 1201 2163 1211" 
+                    HPOS="1101"
+                    VPOS="1126"
+                    WIDTH="1062"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="1509 1131 1459 1131 1408 1136 1358 1136 1308 1136 1257 1141 1207 1141 1157 1141 1107 1201 1101 1231 2153 1236 2163 1211 2158 1136 1590 1126 1559 1131"/></Shape>
+	    <String CONTENT="ETAT (Gouv de l’). (Chilpancingo.)"
+                    HPOS="1101"
+                    VPOS="1126"
+                    WIDTH="1062"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_61a900cf"
+                    TAGREFS="LT1264"
+                    BASELINE="1227 1307 3175 1307" 
+                    HPOS="1227"
+                    VPOS="1231"
+                    WIDTH="1948"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="3089 1257 3039 1257 2988 1252 2938 1247 2888 1247 2837 1241 2787 1236 2737 1236 2722 1231 1227 1231 1227 1307 1227 1337 3175 1337 3175 1307 3170 1282 3139 1302"/></Shape>
+	    <String CONTENT="587. — 140a. Mémoires du Gouvernement de l’État, années 1870-72-"
+                    HPOS="1227"
+                    VPOS="1231"
+                    WIDTH="1948"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_957250e5"
+                    TAGREFS="LT1264"
+                    BASELINE="1655 1377 2359 1382" 
+                    HPOS="1650"
+                    VPOS="1312"
+                    WIDTH="709"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="2259 1312 2208 1312 2158 1312 2108 1312 2058 1312 2007 1312 1957 1312 1907 1312 1856 1312 1806 1312 1756 1312 1705 1312 1655 1312 1655 1377 1650 1392 2349 1397 2359 1382 2354 1312 2309 1312"/></Shape>
+	    <String CONTENT="79-80-83-86 et 88, 7 vol."
+                    HPOS="1650"
+                    VPOS="1312"
+                    WIDTH="709"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bf7ee37f"
+                    TAGREFS="LT1264"
+                    BASELINE="1229 1455 2384 1465" 
+                    HPOS="1222"
+                    VPOS="1377"
+                    WIDTH="1158"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="1222 1468 2369 1473 2380 1463 2375 1387 1227 1377 1227 1453"/></Shape>
+	    <String CONTENT="588. — 140b. Collection de lois, 3 vol."
+                    HPOS="1222"
+                    VPOS="1377"
+                    WIDTH="1158"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_31f32ac3"
+                    TAGREFS="LT1264"
+                    BASELINE="1244 1534 2878 1548" 
+                    HPOS="1237"
+                    VPOS="1433"
+                    WIDTH="1636"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="1237 1548 2863 1553 2873 1543 2868 1463 1242 1433 1242 1533"/></Shape>
+	    <String CONTENT="589. — 140c. constitution de l&#39;État, année 1880, 2 vol."
+                    HPOS="1237"
+                    VPOS="1433"
+                    WIDTH="1636"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_87991897"
+                    TAGREFS="LT1263"
+                    BASELINE="1821 1674 2460 1674" 
+                    HPOS="1821"
+                    VPOS="1588"
+                    WIDTH="639"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="1821 1588 1821 1674 1821 1699 2460 1699 2460 1674 2460 1609 2450 1588"/></Shape>
+	    <String CONTENT="ETAT DE HIDALGO."
+                    HPOS="1821"
+                    VPOS="1588"
+                    WIDTH="639"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7f14627e"
+                    TAGREFS="LT1264"
+                    BASELINE="1096 1795 3054 1790" 
+                    HPOS="1086"
+                    VPOS="1704"
+                    WIDTH="1963"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="1091 1815 3044 1815 3049 1785 3034 1704 1086 1704 1091 1790"/></Shape>
+	    <String CONTENT="ÉCOLE PRATIOUE DES MINES ET MÉTALLURGIE. (Pahuca.)"
+                    HPOS="1086"
+                    VPOS="1704"
+                    WIDTH="1963"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2de08cd2"
+                    TAGREFS="LT1264"
+                    BASELINE="1227 1870 3159 1880" 
+                    HPOS="1222"
+                    VPOS="1795"
+                    WIDTH="1937"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="1222 1890 3149 1900 3159 1880 3154 1810 1227 1795 1227 1870"/></Shape>
+	    <String CONTENT="589 bis. — 141. Deux plans des mines, Rosario, San-Pedro, San¬"
+                    HPOS="1222"
+                    VPOS="1795"
+                    WIDTH="1937"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_222a9a8b"
+                    TAGREFS="LT1264"
+                    BASELINE="1650 1945 3159 1956" 
+                    HPOS="1645"
+                    VPOS="1875"
+                    WIDTH="1514"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="2400 1880 2354 1880 2304 1880 2254 1880 2203 1880 2188 1875 1650 1875 1650 1945 1645 1971 3149 1981 3159 1956 3154 1915 3114 1880"/></Shape>
+	    <String CONTENT="Pablo, San-Miguel, Santo-Tomás et la Luz, dessinés"
+                    HPOS="1645"
+                    VPOS="1875"
+                    WIDTH="1514"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eeafb7f0"
+                    TAGREFS="LT1264"
+                    BASELINE="1650 2031 2359 2031" 
+                    HPOS="1650"
+                    VPOS="1956"
+                    WIDTH="709"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="1650 2061 2359 2051 2359 2031 2359 1956 1650 1956 1650 2031"/></Shape>
+	    <String CONTENT="par les élèves de l’École."
+                    HPOS="1650"
+                    VPOS="1956"
+                    WIDTH="709"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_45ee0681"
+                    TAGREFS="LT1263"
+                    BASELINE="1821 2162 2440 2172" 
+                    HPOS="1816"
+                    VPOS="2076"
+                    WIDTH="624"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="2375 2086 2369 2081 1932 2076 1922 2091 1871 2096 1821 2106 1821 2162 1816 2187 2430 2197 2440 2172 2435 2111 2425 2111"/></Shape>
+	    <String CONTENT="ETAT DE JALISCO."
+                    HPOS="1816"
+                    VPOS="2076"
+                    WIDTH="624"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c583b3c6"
+                    TAGREFS="LT1264"
+                    BASELINE="1091 2282 2118 2272" 
+                    HPOS="1086"
+                    VPOS="2197"
+                    WIDTH="1032"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="1091 2308 2108 2313 2118 2272 2103 2197 1086 2207 1091 2282"/></Shape>
+	    <String CONTENT="ÉTAT (Gouv. de l’). (Guadalajara.)"
+                    HPOS="1086"
+                    VPOS="2197"
+                    WIDTH="1032"
+                    HEIGHT="116"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9f2665f2"
+                    TAGREFS="LT1264"
+                    BASELINE="1217 2378 2933 2368" 
+                    HPOS="1212"
+                    VPOS="2302"
+                    WIDTH="1721"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="2898 2302 1212 2302 1217 2378 1217 2408 2928 2408 2933 2368 2923 2308"/></Shape>
+	    <String CONTENT="590. — 142. Collection de 494 oiseaux, empaillés et montés."
+                    HPOS="1212"
+                    VPOS="2302"
+                    WIDTH="1721"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_756659de"
+                    TAGREFS="LT1264"
+                    BASELINE="1086 2494 2173 2494" 
+                    HPOS="1086"
+                    VPOS="2413"
+                    WIDTH="1087"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="1086 2524 2173 2524 2173 2494 2173 2413 1101 2413 1086 2494"/></Shape>
+	    <String CONTENT="EDMUNDO CUEVAS. (Guadalajara.)"
+                    HPOS="1086"
+                    VPOS="2413"
+                    WIDTH="1087"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c301a61c"
+                    TAGREFS="LT1264"
+                    BASELINE="1217 2589 2546 2574" 
+                    HPOS="1212"
+                    VPOS="2509"
+                    WIDTH="1334"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="1217 2614 2541 2599 2546 2574 2531 2509 1212 2509 1217 2589"/></Shape>
+	    <String CONTENT="591. — 143. Notices de voyages (manuscrits)."
+                    HPOS="1212"
+                    VPOS="2509"
+                    WIDTH="1334"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b45f7cef"
+                    TAGREFS="LT1264"
+                    BASELINE="1086 2690 2279 2700" 
+                    HPOS="1081"
+                    VPOS="2614"
+                    WIDTH="1198"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="1086 2690 1081 2715 2269 2725 2279 2700 2274 2619 1122 2614 1091 2644"/></Shape>
+	    <String CONTENT="ALBERTO SANTOSCOY. (Guadalajara.)"
+                    HPOS="1081"
+                    VPOS="2614"
+                    WIDTH="1198"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ce8c0ab4"
+                    TAGREFS="LT1264"
+                    BASELINE="1207 2795 3144 2780" 
+                    HPOS="1202"
+                    VPOS="2715"
+                    WIDTH="1942"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="3064 2715 1202 2725 1207 2795 1207 2820 3144 2820 3144 2780 3129 2715 3114 2715 3114 2765"/></Shape>
+	    <String CONTENT="592. — 144. Fêtes des jours fastes. Etude ethnologique historique."
+                    HPOS="1202"
+                    VPOS="2715"
+                    WIDTH="1942"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b267687d"
+                    TAGREFS="LT1264"
+                    BASELINE="1635 2866 1977 2866" 
+                    HPOS="1635"
+                    VPOS="2795"
+                    WIDTH="342"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="1735 2795 1685 2795 1635 2856 1635 2866 1635 2896 1977 2896 1977 2866 1977 2795 1836 2795 1786 2795"/></Shape>
+	    <String CONTENT="1 brochure."
+                    HPOS="1635"
+                    VPOS="2795"
+                    WIDTH="342"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4e1bfe3c"
+                    TAGREFS="LT1263"
+                    BASELINE="1746 3011 2485 3011" 
+                    HPOS="1746"
+                    VPOS="2926"
+                    WIDTH="739"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="2420 2926 1746 2926 1746 2931 1746 3011 1746 3042 2485 3042 2485 3011 2485 2926 2455 2926 2450 2946"/></Shape>
+	    <String CONTENT="ETAT  DE MICHOACAN."
+                    HPOS="1746"
+                    VPOS="2926"
+                    WIDTH="739"
+                    HEIGHT="116"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_40a1f3b8"
+                    TAGREFS="LT1264"
+                    BASELINE="1086 3122 1997 3112" 
+                    HPOS="1081"
+                    VPOS="3042"
+                    WIDTH="916"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="1086 3122 1086 3147 1997 3142 1997 3112 1982 3042 1117 3047 1081 3087"/></Shape>
+	    <String CONTENT="ETAT (Gouv. de l’). (Morelia.)"
+                    HPOS="1081"
+                    VPOS="3042"
+                    WIDTH="916"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1ea6f579"
+                    TAGREFS="LT1264"
+                    BASELINE="1202 3223 3144 3208" 
+                    HPOS="1197"
+                    VPOS="3137"
+                    WIDTH="1947"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="1197 3147 1202 3223 1202 3248 3139 3248 3144 3208 3134 3172 3109 3137"/></Shape>
+	    <String CONTENT="593. — 145. Mémoires sur l’administration publique dans l’État."
+                    HPOS="1197"
+                    VPOS="3137"
+                    WIDTH="1947"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6a2c92cd"
+                    TAGREFS="LT1264"
+                    BASELINE="1620 3288 2083 3288" 
+                    HPOS="1620"
+                    VPOS="3218"
+                    WIDTH="463"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="2022 3218 1972 3218 1922 3218 1871 3218 1821 3223 1771 3223 1720 3223 1670 3223 1620 3223 1620 3288 1620 3318 2083 3318 2083 3288 2083 3218 2073 3218"/></Shape>
+	    <String CONTENT=" de 1883 à 1887."
+                    HPOS="1620"
+                    VPOS="3218"
+                    WIDTH="463"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ec34f91a"
+                    TAGREFS="LT1264"
+                    BASELINE="1076 3404 1932 3404" 
+                    HPOS="1076"
+                    VPOS="3323"
+                    WIDTH="856"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="1076 3404 1076 3434 1932 3434 1932 3404 1932 3323 1107 3323 1076 3353"/></Shape>
+	    <String CONTENT="NICOLAS LEON. (Morelia.)"
+                    HPOS="1076"
+                    VPOS="3323"
+                    WIDTH="856"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_efb365bd"
+                    TAGREFS="LT1264"
+                    BASELINE="1207 3499 2858 3489" 
+                    HPOS="1202"
+                    VPOS="3419"
+                    WIDTH="1656"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="1202 3419 1207 3499 1207 3524 2853 3514 2858 3489 2848 3429 2822 3419"/></Shape>
+	    <String CONTENT="594. — 146. Annales du musée de Michocan, 8 feuillets."
+                    HPOS="1202"
+                    VPOS="3419"
+                    WIDTH="1656"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_deda4d1c"
+                    TAGREFS="LT1263"
+                    BASELINE="1786 3645 2445 3645" 
+                    HPOS="1786"
+                    VPOS="3565"
+                    WIDTH="659"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="2390 3565 2088 3565 2037 3570 1987 3580 1937 3585 1886 3590 1836 3595 1816 3595 1786 3645 1786 3675 2445 3675 2445 3645 2440 3630 2440 3635"/></Shape>
+	    <String CONTENT="ETAT DE MORELOS."
+                    HPOS="1786"
+                    VPOS="3565"
+                    WIDTH="659"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_67e8f439"
+                    
+                    BASELINE="1051 3756 2073 3756" 
+                    HPOS="1051"
+                    VPOS="3680"
+                    WIDTH="1022"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="1051 3786 2073 3786 2073 3756 2073 3680 1051 3680 1051 3756"/></Shape>
+	    <String CONTENT="ÉTAT (Gouv. de l’). (Cuernavaca.)"
+                    HPOS="1051"
+                    VPOS="3680"
+                    WIDTH="1022"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_30f8566d"
+                    TAGREFS="LT1264"
+                    BASELINE="1202 3851 3134 3851" 
+                    HPOS="1202"
+                    VPOS="3776"
+                    WIDTH="1932"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="1202 3776 1202 3851 1202 3871 3129 3876 3134 3851 3134 3776 3114 3776"/></Shape>
+	    <String CONTENT="595. — 147. Mémoire sur l’administration publique de Morelos,"
+                    HPOS="1202"
+                    VPOS="3776"
+                    WIDTH="1932"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ca148fa6"
+                    TAGREFS="LT1264"
+                    BASELINE="1625 3922 3134 3912" 
+                    HPOS="1620"
+                    VPOS="3856"
+                    WIDTH="1514"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="3029 3856 2978 3856 2928 3856 2878 3856 2827 3856 2777 3856 2727 3856 2676 3856 2626 3856 2576 3856 2525 3856 2475 3856 2425 3856 2375 3856 2324 3856 2274 3856 2224 3856 2173 3856 2123 3856 2073 3856 2022 3856 1972 3856 1922 3856 1871 3856 1821 3856 1771 3856 1720 3856 1670 3856 1620 3856 1625 3922 1625 3957 3134 3947 3134 3912 3119 3856 3079 3856"/></Shape>
+	    <String CONTENT="présenté au Congrès par le gouverneur constitutionnel."
+                    HPOS="1620"
+                    VPOS="3856"
+                    WIDTH="1514"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3d34048d"
+                    TAGREFS="LT1264"
+                    BASELINE="1630 3992 3049 3992" 
+                    HPOS="1630"
+                    VPOS="3922"
+                    WIDTH="1419"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="2988 3922 2334 3922 2284 3922 2234 3922 2183 3922 2133 3922 2083 3922 2032 3922 1982 3922 1932 3922 1881 3922 1831 3922 1781 3922 1730 3922 1680 3922 1630 3922 1630 3992 1630 4027 3049 4017 3049 3992 3044 3982 3039 3982"/></Shape>
+	    <String CONTENT="général Jesus H. Préciado, le 12 avril 1887, 1 vol."
+                    HPOS="1630"
+                    VPOS="3922"
+                    WIDTH="1419"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cc816999"
+                    TAGREFS="LT1264"
+                    BASELINE="1202 4067 2732 4067" 
+                    HPOS="1202"
+                    VPOS="3997"
+                    WIDTH="1530"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="2661 3997 2611 3997 2561 3997 2510 3997 2460 3997 2410 3997 2359 3997 2309 3997 2259 3997 2208 3997 2158 3997 2108 3997 2058 3997 2007 3997 1957 3997 1907 3997 1856 3997 1806 3997 1756 3997 1705 3997 1655 3997 1227 3997 1202 4052 1202 4067 1202 4103 2732 4103 2732 4067 2732 3997 2712 3997"/></Shape>
+	    <String CONTENT="595 bis. — 147a. Album litéraire de Morelos, 1 vol ."
+                    HPOS="1202"
+                    VPOS="3997"
+                    WIDTH="1530"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

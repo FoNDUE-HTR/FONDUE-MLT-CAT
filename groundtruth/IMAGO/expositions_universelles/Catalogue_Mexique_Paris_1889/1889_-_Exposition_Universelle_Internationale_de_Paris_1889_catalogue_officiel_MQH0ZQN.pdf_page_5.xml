@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>1889_-_Exposition_Universelle_Internationale_de_Paris_1889_catalogue_officiel_MQH0ZQN.pdf_page_5.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT3722" LABEL="CustomZone:class" DESCRIPTION="block type CustomZone:class"/><OtherTag ID="BT3720" LABEL="CustomZone:group" DESCRIPTION="block type CustomZone:group"/><OtherTag ID="BT3701" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT3700" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT3699" LABEL="GraphicZone:ornamentation" DESCRIPTION="block type GraphicZone:ornamentation"/><OtherTag ID="BT3698" LABEL="GraphicZone:illustration" DESCRIPTION="block type GraphicZone:illustration"/><OtherTag ID="BT3697" LABEL="CustomZone:entryEnd" DESCRIPTION="block type CustomZone:entryEnd"/><OtherTag ID="BT3696" LABEL="CustomZone:entry" DESCRIPTION="block type CustomZone:entry"/><OtherTag ID="BT3695" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1263" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT1264" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4267"
+          HEIGHT="6034"
+          PHYSICAL_IMG_NR="4"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4267"
+                  HEIGHT="6034">
+        
+        <TextBlock HPOS="1645"
+                   VPOS="1795"
+                   WIDTH="1029"
+                   HEIGHT="262"
+                   ID="eSc_textblock_8f582120"
+                   TAGREFS="BT3722">
+          <Shape><Polygon POINTS="1645 1795 1645 2057 2674 2057 2674 1795"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1413"
+                   VPOS="1467"
+                   WIDTH="1523"
+                   HEIGHT="278"
+                   ID="eSc_textblock_62c797c9"
+                   TAGREFS="BT3720">
+          <Shape><Polygon POINTS="1413 1745 1413 1467 2936 1467 2936 1745"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1140"
+                   VPOS="2238"
+                   WIDTH="2099"
+                   HEIGHT="522"
+                   ID="eSc_textblock_61c6308f"
+                   TAGREFS="BT3696">
+          <Shape><Polygon POINTS="1140 2238 1140 2760 3239 2760 3239 2238"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1130"
+                   VPOS="2820"
+                   WIDTH="2114"
+                   HEIGHT="1169"
+                   ID="eSc_textblock_03bc610b"
+                   TAGREFS="BT3696">
+          <Shape><Polygon POINTS="1130 2820 1130 3989 3244 3989 3244 2820"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1130"
+                   VPOS="611"
+                   WIDTH="2119"
+                   HEIGHT="3403"
+                   ID="eSc_textblock_528a1b4d"
+                   TAGREFS="BT3695">
+          <Shape><Polygon POINTS="1130 4014 1130 611 3249 611 3249 4014"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_b13fe6cd"
+                    TAGREFS="LT1263"
+                    BASELINE="1343 708 2998 698" 
+                    HPOS="1338"
+                    VPOS="613"
+                    WIDTH="1660"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="2898 623 2848 623 2797 623 2747 623 2697 623 2646 623 2596 623 2546 623 2495 623 2445 623 2395 623 2344 623 2294 623 2244 623 2193 623 2143 623 2093 623 2042 623 1992 623 1942 623 1891 623 1841 623 1791 623 1741 623 1690 623 1640 623 1590 623 1539 623 1489 623 1439 623 1388 623 1338 613 1343 708 1343 734 2993 724 2998 698 2983 623 2948 623"/></Shape>
+	    <String CONTENT="EXPOSITION UNIVERSELLE DE 1889"
+                    HPOS="1338"
+                    VPOS="613"
+                    WIDTH="1660"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b47abd45"
+                    TAGREFS="LT1263"
+                    BASELINE="1142 1035 3200 1020" 
+                    HPOS="1142"
+                    VPOS="884"
+                    WIDTH="2058"
+                    HEIGHT="166">
+            <Shape><Polygon POINTS="3099 900 3049 900 2998 900 2948 900 2898 900 2848 900 2797 900 2747 900 2697 895 2646 895 2596 895 2546 895 2495 895 2445 895 2395 895 2344 895 2294 895 2244 890 2234 890 2128 895 2118 890 2093 890 2042 890 1992 890 1942 890 1891 890 1841 890 1791 884 1741 884 1705 884 1469 895 1434 884 1388 884 1338 884 1288 890 1237 895 1212 895 1182 900 1147 995 1142 1035 1142 1050 3200 1040 3200 1020 3195 1015 3149 900"/></Shape>
+	    <String CONTENT="EXPOSITION DU MEXIQUE"
+                    HPOS="1142"
+                    VPOS="884"
+                    WIDTH="2058"
+                    HEIGHT="166"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5c18fcb0"
+                    TAGREFS="LT1263"
+                    BASELINE="1635 1307 2687 1292" 
+                    HPOS="1630"
+                    VPOS="1206"
+                    WIDTH="1057"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="2621 1206 1630 1216 1630 1221 1635 1307 1635 1327 2681 1317 2687 1292 2671 1262 2636 1221"/></Shape>
+	    <String CONTENT="CATALOGUE"
+                    HPOS="1630"
+                    VPOS="1206"
+                    WIDTH="1057"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f5b41cd8"
+                    TAGREFS="LT1263"
+                    BASELINE="1403 1679 2923 1664" 
+                    HPOS="1398"
+                    VPOS="1593"
+                    WIDTH="1525"
+                    HEIGHT="116">
+            <Shape><Polygon POINTS="1444 1604 1398 1669 1403 1679 1403 1709 2918 1699 2923 1664 2908 1604 2873 1593"/></Shape>
+	    <String CONTENT="BEAUX-ARTS — ARCHITECTURE – GRAVURE"
+                    HPOS="1398"
+                    VPOS="1593"
+                    WIDTH="1525"
+                    HEIGHT="116"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0953d805"
+                    TAGREFS="LT1263"
+                    BASELINE="1786 1568 2455 1563 2675 1563" 
+                    HPOS="1776"
+                    VPOS="1443"
+                    WIDTH="895"
+                    HEIGHT="140">
+            <Shape><Polygon POINTS="1781 1583 2666 1573 2671 1558 2666 1468 2007 1443 2002 1443 1997 1443 1992 1443 1962 1468 1801 1448 1796 1448 1791 1448 1786 1448 1786 1453 1781 1453 1776 1453 1781 1563"/></Shape>
+	    <String CONTENT="GROUPE Ier"
+                    HPOS="1776"
+                    VPOS="1443"
+                    WIDTH="895"
+                    HEIGHT="140"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aed7fef3"
+                    TAGREFS="LT1263"
+                    BASELINE="1710 1976 2616 1986" 
+                    HPOS="1705"
+                    VPOS="1900"
+                    WIDTH="911"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="2541 1905 1912 1900 1912 1910 1861 1910 1811 1910 1761 1910 1720 1940 1710 1976 1705 1996 2606 2006 2616 1986 2601 1966 2566 1930"/></Shape>
+	    <String CONTENT="Tableaux et Aquarelles."
+                    HPOS="1705"
+                    VPOS="1900"
+                    WIDTH="911"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5ca5307b"
+                    TAGREFS="LT1263"
+                    BASELINE="1972 1895 2380 1895" 
+                    HPOS="1972"
+                    VPOS="1815"
+                    WIDTH="408"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="1972 1920 2380 1920 2380 1895 2380 1815 1972 1815 1972 1895"/></Shape>
+	    <String CONTENT="CLASSE 1"
+                    HPOS="1972"
+                    VPOS="1815"
+                    WIDTH="408"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_982744d7"
+                    TAGREFS="LT1264"
+                    BASELINE="1145 2312 3229 2303" 
+                    HPOS="1137"
+                    VPOS="2217"
+                    WIDTH="2088"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="1142 2323 3225 2318 3225 2302 3215 2217 1137 2217 1142 2308"/></Shape>
+	    <String CONTENT="ALMANZA CLÉOFAS, disciple de Vélasco, élève de l&#39;école nationale des"
+                    HPOS="1137"
+                    VPOS="2217"
+                    WIDTH="2088"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dfb6b010"
+                    TAGREFS="LT1263"
+                    BASELINE="1836 2197 2500 2182" 
+                    HPOS="1831"
+                    VPOS="2101"
+                    WIDTH="669"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="2435 2106 2400 2101 1886 2111 1881 2116 1831 2126 1836 2197 1836 2222 2495 2207 2500 2182 2485 2111"/></Shape>
+	    <String CONTENT="DISTRICT FÉDÉRAL."
+                    HPOS="1831"
+                    VPOS="2101"
+                    WIDTH="669"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ae6dd031"
+                    TAGREFS="LT1264"
+                    BASELINE="1192 2368 1524 2378" 
+                    HPOS="1187"
+                    VPOS="2297"
+                    WIDTH="337"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="1293 2297 1242 2297 1192 2308 1192 2368 1187 2393 1514 2398 1524 2378 1519 2302 1353 2297 1343 2297"/></Shape>
+	    <String CONTENT="Beaux-Arts."
+                    HPOS="1187"
+                    VPOS="2297"
+                    WIDTH="337"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dd003389"
+                    TAGREFS="LT1264"
+                    BASELINE="1257 2458 2108 2463" 
+                    HPOS="1252"
+                    VPOS="2388"
+                    WIDTH="856"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="1252 2489 2103 2489 2108 2463 2103 2393 1257 2388 1257 2458"/></Shape>
+	    <String CONTENT="1. — 1. Vue de Chapultepec."
+                    HPOS="1252"
+                    VPOS="2388"
+                    WIDTH="856"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_57534086"
+                    TAGREFS="LT1264"
+                    BASELINE="1257 2539 2400 2524" 
+                    HPOS="1252"
+                    VPOS="2458"
+                    WIDTH="1148"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="2108 2458 2108 2463 2058 2463 2007 2463 1957 2463 1907 2463 1856 2463 1816 2463 1252 2463 1257 2539 1257 2559 2400 2544 2400 2524 2385 2468 2375 2458"/></Shape>
+	    <String CONTENT="2. — 1a. Ahuehuete de la Noche triste."
+                    HPOS="1252"
+                    VPOS="2458"
+                    WIDTH="1148"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_02fc5a1c"
+                    TAGREFS="LT1264"
+                    BASELINE="1252 2609 2138 2604" 
+                    HPOS="1247"
+                    VPOS="2539"
+                    WIDTH="891"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="1252 2639 2133 2639 2138 2604 2123 2539 1247 2539 1252 2609"/></Shape>
+	    <String CONTENT="3. — 1b. Collines du Tepeyac."
+                    HPOS="1247"
+                    VPOS="2539"
+                    WIDTH="891"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c7a24d9f"
+                    TAGREFS="LT1264"
+                    BASELINE="1257 2680 2264 2680" 
+                    HPOS="1257"
+                    VPOS="2614"
+                    WIDTH="1007"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="1257 2710 2264 2710 2264 2680 2264 2614 1257 2614 1257 2680"/></Shape>
+	    <String CONTENT="4. — 1c. Cour du Musée national."
+                    HPOS="1257"
+                    VPOS="2614"
+                    WIDTH="1007"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c1242781"
+                    TAGREFS="LT1264"
+                    BASELINE="1252 2750 2083 2760" 
+                    HPOS="1247"
+                    VPOS="2680"
+                    WIDTH="836"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="1705 2685 1655 2685 1605 2685 1554 2685 1504 2685 1454 2685 1403 2685 1353 2685 1303 2685 1252 2680 1252 2750 1247 2770 2073 2775 2083 2760 2078 2690 1801 2685 1756 2685"/></Shape>
+	    <String CONTENT="5 — 1d. Fleuve de Orizaba."
+                    HPOS="1247"
+                    VPOS="2680"
+                    WIDTH="836"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d3ab2899"
+                    TAGREFS="LT1264"
+                    BASELINE="1122 2876 2410 2861" 
+                    HPOS="1117"
+                    VPOS="2780"
+                    WIDTH="1293"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="2349 2780 1197 2790 1167 2800 1117 2805 1122 2876 1122 2901 2405 2891 2410 2861 2395 2810 2375 2795"/></Shape>
+	    <String CONTENT="ÉCOLE NATIONALE DES BEAUX-ARTS."
+                    HPOS="1117"
+                    VPOS="2780"
+                    WIDTH="1293"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ea2ba4c4"
+                    TAGREFS="LT1264"
+                    BASELINE="1257 2956 2626 2951 2757 2961 2827 2951 2943 2941" 
+                    HPOS="1247"
+                    VPOS="2871"
+                    WIDTH="1691"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="1252 2981 2933 2971 2938 2936 2923 2871 1247 2886 1252 2951"/></Shape>
+	    <String CONTENT="6. — 2. Source de San-Petro à Jalapa. (Almanza Cléofas.)"
+                    HPOS="1247"
+                    VPOS="2871"
+                    WIDTH="1691"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_97402990"
+                    TAGREFS="LT1264"
+                    BASELINE="1252 3042 2702 3032 2862 3041 3231 3031" 
+                    HPOS="1242"
+                    VPOS="2956"
+                    WIDTH="1988"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="2752 2981 2702 2971 2661 2956 1242 2966 1247 3037 1247 3057 3225 3042 3230 3027 3215 2956 2817 2956 2802 2966"/></Shape>
+	    <String CONTENT="7. — 2a. Le Samaritain. (Bribiesca Alberto, disciple de Pina et élève"
+                    HPOS="1242"
+                    VPOS="2956"
+                    WIDTH="1988"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3710c5c6"
+                    TAGREFS="LT1264"
+                    BASELINE="1252 3172 1916 3182" 
+                    HPOS="1242"
+                    VPOS="3102"
+                    WIDTH="670"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="1242 3203 1907 3203 1912 3177 1907 3112 1247 3102 1247 3167"/></Shape>
+	    <String CONTENT="8. — 2b. Job. (Idem.)"
+                    HPOS="1242"
+                    VPOS="3102"
+                    WIDTH="670"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4366e033"
+                    TAGREFS="LT1264"
+                    BASELINE="1610 3107 2651 3107" 
+                    HPOS="1605"
+                    VPOS="3037"
+                    WIDTH="1041"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="1856 3037 1806 3037 1756 3037 1705 3037 1655 3037 1605 3037 1605 3102 1605 3132 2646 3127 2646 3102 2646 3037 1957 3037 1907 3037"/></Shape>
+	    <String CONTENT="de l’École nationale des Beaux-Arts.)"
+                    HPOS="1605"
+                    VPOS="3037"
+                    WIDTH="1041"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_49302f00"
+                    TAGREFS="LT1264"
+                    BASELINE="1249 3278 3215 3258" 
+                    HPOS="1242"
+                    VPOS="3177"
+                    WIDTH="1968"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="1247 3273 1247 3288 3205 3268 3210 3253 3195 3177 1242 3187 1247 3273"/></Shape>
+	    <String CONTENT="9. — 2c. La Charité de saint Louis de Gonzagues. (Carrasco Gon¬"
+                    HPOS="1242"
+                    VPOS="3177"
+                    WIDTH="1968"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2b890085"
+                    TAGREFS="LT1264"
+                    BASELINE="1247 3479 3180 3454" 
+                    HPOS="1247"
+                    VPOS="3379"
+                    WIDTH="1933"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="1897 3399 1846 3399 1796 3399 1746 3399 1695 3399 1645 3399 1595 3399 1544 3404 1494 3419 1444 3419 1393 3419 1343 3419 1293 3419 1247 3479 1247 3499 3180 3484 3180 3454 3170 3389 2012 3379 2007 3379 1957 3379 1947 3399"/></Shape>
+	    <String CONTENT="10. — 2d. Le Sénat de Tlaxcala. (Gutierrez Rodrigo, disciple de"
+                    HPOS="1247"
+                    VPOS="3379"
+                    WIDTH="1933"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_869c08fd"
+                    TAGREFS="LT1264"
+                    BASELINE="1612 3343 3225 3333" 
+                    HPOS="1605"
+                    VPOS="3253"
+                    WIDTH="1615"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="3114 3268 3064 3268 3014 3268 2963 3268 2913 3268 2863 3268 2812 3268 2762 3268 2712 3268 2661 3268 2611 3268 2561 3268 2510 3268 2460 3268 2410 3268 2359 3268 2309 3268 2259 3268 2208 3273 2158 3273 2108 3273 2058 3273 2007 3273 1957 3273 1907 3273 1856 3273 1806 3273 1756 3273 1705 3273 1655 3273 1605 3273 1610 3338 1610 3353 3215 3343 3220 3328 3205 3253 3165 3253 3165 3268"/></Shape>
+	    <String CONTENT="zalo, disciple de Pina et élève de l&#39;Ecole nationale des"
+                    HPOS="1605"
+                    VPOS="3253"
+                    WIDTH="1615"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dc633e07"
+                    TAGREFS="LT1264"
+                    BASELINE="1600 3399 2007 3399" 
+                    HPOS="1595"
+                    VPOS="3328"
+                    WIDTH="407"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="1947 3338 1897 3338 1846 3338 1796 3338 1746 3338 1695 3338 1645 3338 1635 3328 1595 3328 1595 3394 1595 3424 2002 3424 2002 3394 2002 3338 1997 3338"/></Shape>
+	    <String CONTENT="Beaux-Arts.)"
+                    HPOS="1595"
+                    VPOS="3328"
+                    WIDTH="407"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bd5b66b5"
+                    TAGREFS="LT1264"
+                    BASELINE="1247 3620 3170 3605" 
+                    HPOS="1247"
+                    VPOS="3539"
+                    WIDTH="1923"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="1494 3555 1444 3555 1393 3555 1343 3555 1293 3555 1247 3620 1247 3645 3165 3635 3170 3605 3154 3539 1544 3550 1544 3555"/></Shape>
+	    <String CONTENT="11. — 2e. La Charité chrétienne aux premiers temps de l’Église."
+                    HPOS="1247"
+                    VPOS="3539"
+                    WIDTH="1923"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_48760f1b"
+                    TAGREFS="LT1264"
+                    BASELINE="1630 3544 3170 3534" 
+                    HPOS="1625"
+                    VPOS="3464"
+                    WIDTH="1545"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="2329 3469 2279 3469 2229 3469 2178 3469 2128 3469 2078 3469 2027 3469 1977 3474 1927 3474 1876 3474 1826 3474 1776 3474 1725 3474 1675 3474 1625 3479 1630 3544 1630 3575 3165 3565 3170 3534 3154 3464 2405 3464 2380 3469"/></Shape>
+	    <String CONTENT="Pina et ancien élève de l’École nationale des Beaux-Arts.)"
+                    HPOS="1625"
+                    VPOS="3464"
+                    WIDTH="1545"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aace060a"
+                    TAGREFS="LT1264"
+                    BASELINE="1630 3685 3185 3675" 
+                    HPOS="1625"
+                    VPOS="3610"
+                    WIDTH="1560"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="2430 3615 2395 3615 1891 3615 1876 3620 1826 3620 1776 3620 1725 3620 1675 3620 1625 3620 1630 3685 1630 3725 3180 3705 3185 3675 3170 3610 2485 3610 2480 3615"/></Shape>
+	    <String CONTENT="(Harrarán José Maria, disciple de Pina et ancien élève"
+                    HPOS="1625"
+                    VPOS="3610"
+                    WIDTH="1560"
+                    HEIGHT="115"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_635c0eba"
+                    TAGREFS="LT1264"
+                    BASELINE="1242 3836 3180 3816" 
+                    HPOS="1237"
+                    VPOS="3751"
+                    WIDTH="1943"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="1242 3856 3180 3841 3180 3816 3165 3751 1237 3766 1242 3836"/></Shape>
+	    <String CONTENT="12. — 2f. Xochitl présente au roi Tépancalzin le pulque qu’elle vient"
+                    HPOS="1237"
+                    VPOS="3751"
+                    WIDTH="1943"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0f478fb7"
+                    TAGREFS="LT1264"
+                    BASELINE="1630 3761 2661 3751" 
+                    HPOS="1625"
+                    VPOS="3680"
+                    WIDTH="1036"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="2329 3685 2304 3685 1625 3690 1630 3761 1630 3791 2656 3791 2661 3751 2646 3680 2390 3680 2380 3685"/></Shape>
+	    <String CONTENT="de l’École nationale des Beaux-Arts.)"
+                    HPOS="1625"
+                    VPOS="3680"
+                    WIDTH="1036"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fe626cae"
+                    TAGREFS="LT1264"
+                    BASELINE="1625 3907 2938 3901 2978 3881 3175 3896" 
+                    HPOS="1620"
+                    VPOS="3831"
+                    WIDTH="1555"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="1670 3836 1620 3836 1625 3907 1625 3932 3170 3922 3175 3896 3165 3831 1720 3831 1720 3836"/></Shape>
+	    <String CONTENT="de découvrir. (Obrégon José, disciple de Clavé et pro¬"
+                    HPOS="1620"
+                    VPOS="3831"
+                    WIDTH="1555"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e34af35a"
+                    TAGREFS="LT1264"
+                    BASELINE="1630 3982 2863 3972" 
+                    HPOS="1625"
+                    VPOS="3907"
+                    WIDTH="1238"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="2782 3907 2732 3907 2681 3907 2631 3907 2581 3907 2531 3907 2480 3907 2430 3907 2380 3907 2329 3907 2279 3907 2229 3907 2178 3907 2128 3907 2078 3907 2027 3907 1977 3907 1927 3907 1625 3907 1630 3982 1630 4017 2858 4017 2863 3972 2848 3907 2832 3907"/></Shape>
+	    <String CONTENT="fesseur de l’Ecole nationale des Beaux-Arts.)"
+                    HPOS="1625"
+                    VPOS="3907"
+                    WIDTH="1238"
+                    HEIGHT="110"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
