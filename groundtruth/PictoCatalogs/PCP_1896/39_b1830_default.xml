@@ -147,7 +147,7 @@
                     WIDTH="346"
                     HEIGHT="56">
             <Shape><Polygon POINTS="179 405 175 376 358 367 359 367 394 369 488 372 516 365 521 400 517 416 499 409 405 409 399 415 399 416 398 416 397 416 395 416 394 416 379 410 372 418 370 418 369 418 368 418 367 418 349 410 331 419 330 419 329 419 280 413 264 420 263 420 179 421"/></Shape>
-	    <String CONTENT="☙ ORIGET (Emmamuel)"
+	    <String CONTENT="☙ ORIGET (Emmanuel)"
                     HPOS="175"
                     VPOS="365"
                     WIDTH="346"
@@ -164,7 +164,7 @@
                     WIDTH="233"
                     HEIGHT="47">
             <Shape><Polygon POINTS="365 430 363 408 592 394 596 421 595 434 365 441"/></Shape>
-	    <String CONTENT="73, rue de Mirosmesnil, Paris."
+	    <String CONTENT="73, rue de Miromesnil, Paris."
                     HPOS="363"
                     VPOS="394"
                     WIDTH="233"

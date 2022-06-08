@@ -164,7 +164,7 @@
                     WIDTH="189"
                     HEIGHT="42">
             <Shape><Polygon POINTS="239 332 238 312 425 307 427 327 426 345 386 342 381 345 381 346 380 346 379 346 378 346 377 346 376 346 376 345 376 344 370 339 351 344 332 349 306 349 305 349 304 349 303 349 303 348 298 344 296 342 239 342"/></Shape>
-	    <String CONTENT="3, rue Meissonnier, Paris."
+	    <String CONTENT="3, rue Meissonier, Paris."
                     HPOS="238"
                     VPOS="307"
                     WIDTH="189"
@@ -293,7 +293,7 @@
                     WIDTH="178"
                     HEIGHT="45">
             <Shape><Polygon POINTS="239 579 237 561 283 560 286 558 293 553 294 553 295 553 296 553 319 557 334 558 412 553 415 577 415 592 395 597 394 597 393 597 392 597 376 593 375 593 374 593 337 598 336 598 238 597"/></Shape>
-	    <String CONTENT="20, rue Vanceau, Paris."
+	    <String CONTENT="20, rue Vaneau, Paris."
                     HPOS="237"
                     VPOS="553"
                     WIDTH="178"
