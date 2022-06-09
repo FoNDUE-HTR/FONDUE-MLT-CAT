@@ -276,7 +276,7 @@
                     WIDTH="578"
                     HEIGHT="69">
             <Shape><Polygon POINTS="441 1044 437 1015 1010 994 1015 1033 1011 1052 542 1052 441 1063"/></Shape>
-	    <String CONTENT="22, rue des Covalescents, Marseille"
+	    <String CONTENT="22, rue des Convalescents, Marseille"
                     HPOS="437"
                     VPOS="994"
                     WIDTH="578"
@@ -354,7 +354,7 @@
                     WIDTH="478"
                     HEIGHT="80">
             <Shape><Polygon POINTS="540 1326 537 1280 653 1287 677 1280 702 1272 704 1272 706 1272 776 1272 778 1272 796 1281 802 1283 805 1281 829 1270 831 1270 833 1270 912 1280 965 1269 967 1269 969 1269 1013 1283 1015 1318 1013 1333 977 1333 975 1333 965 1342 965 1344 964 1344 962 1344 960 1344 848 1338 785 1335 761 1340 737 1348 735 1348 734 1348 702 1342 675 1338 658 1344 643 1349 642 1349 640 1349 638 1349 621 1346 599 1340 540 1348"/></Shape>
-	    <String CONTENT="55, rue de Châteaudrun, Paris."
+	    <String CONTENT="55, rue de Châteaudun, Paris."
                     HPOS="537"
                     VPOS="1269"
                     WIDTH="478"

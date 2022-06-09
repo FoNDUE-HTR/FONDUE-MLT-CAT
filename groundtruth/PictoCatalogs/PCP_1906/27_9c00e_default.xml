@@ -103,7 +103,7 @@
                     WIDTH="598"
                     HEIGHT="57">
             <Shape><Polygon POINTS="536 442 534 405 1131 403 1132 442 1131 460 534 455"/></Shape>
-	    <String CONTENT="Villa Bertje Madeleine, rue Rombont,"
+	    <String CONTENT="Villa Berthe Madeleine, rue Rombont,"
                     HPOS="534"
                     VPOS="403"
                     WIDTH="598"
@@ -120,7 +120,7 @@
                     WIDTH="373"
                     HEIGHT="58">
             <Shape><Polygon POINTS="563 478 563 444 936 444 936 478 934 500 593 489 565 502"/></Shape>
-	    <String CONTENT="Marlo-les-Bains (Nord)."
+	    <String CONTENT="Malo-les-Bains (Nord)."
                     HPOS="563"
                     VPOS="444"
                     WIDTH="373"
