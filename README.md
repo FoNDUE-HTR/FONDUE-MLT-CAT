@@ -31,9 +31,12 @@ This repository is developed by Frédérine Pradier.
 - `Katabase`: preparation has been done by Simon Gabay and Paul Kervegan.
 - `ODD`: preparation has been done by Simon Gabay.
 
+Original dataset :
+Juliette Janes, Simon Gabay, Béatrice Joyeux-Prunel, HTRCatalogs: Dataset for Historical Catalogs Segmentation and HTR, 2021, Paris: ENS Paris [https://github.com/Juliettejns/cataloguesSegmentationOCR/](https://github.com/Juliettejns/cataloguesSegmentationOCR/)
+
 ## Thanks to
 
-This project greatly benefited from the active help Simon Gabay, Pauline Jacsont, Esteban Sánchez Oeconomo and Paul Kervegan.
+This project greatly benefited from the active help of Simon Gabay, Pauline Jacsont, Esteban Sánchez Oeconomo and Paul Kervegan.
 
 ## Licence
 
