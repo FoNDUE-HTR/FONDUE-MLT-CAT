@@ -1,4 +1,4 @@
-# Datasets for catalogs OCR and segmentation 
+# Datasets for catalogs HTR and Layout Analysis 
 
 ## Description
 
@@ -28,16 +28,22 @@ This repository is developed by Frédérine Pradier.
 - `Expositions Universelles`: preparation has been done by Esteban Sánchez Oeconomo.
 - `Groupe Annuaires et Adresses`: preparation has been done by Gabriela Elgarrista, under the supervision of Carmen Brando.
 - `IMAGO`: preparation has been done by Caroline Corbières and Juliette Janès.
-- `Katabase`: preparation has been done by Simon Gabay.
+- `Katabase`: preparation has been done by Simon Gabay and Paul Kervegan.
 - `ODD`: preparation has been done by Simon Gabay.
 
 ## Thanks to
+
+This project greatly benefited from the active help Simon Gabay, Pauline Jacsont, Esteban Sánchez Oeconomo and Paul Kervegan.
 
 ## Licence
 
 `PictoCatalogs` : the catalogs are in the public domain, images are made available by the Metropolitan Museum of Art under a [CC0](https://creativecommons.org/licenses/by/4.0) license and transcriptions are [CC-BY](https://creativecommons.org/licenses/by/2.0/fr/).
 
 `Groupe Annuaires et Adresses`, `IMAGO`, `Katabase`, `ODD` : images from catalogs published prior 1920 and transcriptions are [CC-BY](https://creativecommons.org/licenses/by/2.0/fr/). The other images are extracts of catalogs published after 1920 and are the intellectual property of their productor.
+
+## Cite this repository
+
+Frédérine Pradier, Simon Gabay, Béatrice Joyeux-Prunel, *PictoCatalogs : Datasets for catalogs HTR and Layout Analysis*, 2022, Geneva: University of Geneva
 
 ## Contacts
 
