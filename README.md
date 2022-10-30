@@ -46,9 +46,9 @@ This project greatly benefited from the active help of Simon Gabay, Pauline Jacs
 
 ## Cite this repository
 
-Frédérine Pradier, Simon Gabay, Béatrice Joyeux-Prunel, *PictoCatalogs : Datasets for catalogs HTR and Layout Analysis*, 2022, Geneva: University of Geneva
+Frédérine Pradier, Simon Gabay, Pauline Jacsont, Esteban Sánchez Oeconomo, Paul Kervegan and Béatrice Joyeux-Prunel, *PictoCatalogs : Datasets for catalogs HTR and Layout Analysis*, 2022, Geneva: University of Geneva
 
 ## Contacts
 
-frederine.pradier@etu-unige.ch
+frederine.pradier@etu-unige.ch; simon.gabay@unige.ch
 
