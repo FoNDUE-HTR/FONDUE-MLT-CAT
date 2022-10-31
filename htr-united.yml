@@ -1,34 +1,54 @@
 schema: https://htr-united.github.io/schema/2022-04-15/schema.json
-title: TrainingDataOCR
-url: https://github.com/PictoCatalogs/TrainingDataOCR
+title: FoNDUE - Datasets for historical catalogues
+url: https://github.com/FoNDUE-HTR/FONDUE-MLT-CAT
 authors:
-- name: Pradier
-  surname: Frederine
-  type: person
-  orcid: 0000-0002-3476-7248
-  roles:
-  - transcriber
-  - project-manager
-description: 'Datasets for historical catalogs OCR and segmentation
-
-  '
+  - name: Pradier
+    surname: Frédérine
+    orcid: 0000-0002-3476-7248
+    roles:
+      - transcriber
+      - project-manager
+  - name: Gabay
+    surname: Simon
+    orcid: 0000-0001-9094-4475
+    roles:
+      - transcriber
+      - project-manager
+      - quality-control
+      - support
+  - name: Kervegan
+    surname: Paul
+    roles:
+      - transcriber
+  - name: Janès
+    surname: Juliette
+  - name: Sánchez Oeconomo
+    surname: Esteban
+    roles:
+      - transcriber
+institutions: []
+description: >-
+  Groundtruth for 19th/20th sale/exhibition catalogues, mainly printed in France
+  but not only. Segmentation include an extra zone `CustomeZone: entry`
 language:
-- fra
+  - por
+  - fra
+  - ita
 production-software: eScriptorium + Kraken
 script:
-- iso: Latn
+  - iso: Latn
 script-type: only-typed
 time:
-  notBefore: '1801'
-  notAfter: '1940'
+  notBefore: '1818'
+  notAfter: '1972'
 hands:
-  count: unknown
+  count: '1'
   precision: exact
 license:
-- name: CC-BY 4.0
-  url: https://creativecommons.org/licenses/by/4.0/
+  - name: CC-BY 4.0
+    url: https://creativecommons.org/licenses/by/4.0/
 format: Alto-XML
-citation-file-link: https://github.com/PictoCatalogs/TrainingDataOCR/blob/main/CITATION.cff
+citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-MLT-CAT/blob/main/CITATION.cff
 volume:
 - metric: characters
   count: 1285120

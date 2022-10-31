@@ -4,8 +4,20 @@ authors:
   - family-names: Pradier
     given-names: Frederine
     orcid: "https://orcid.org/0000-0002-3476-7248"
-title: "PictoCatalogs - Datasets for historical catalogs OCR and segmentation"
-version: "1.0"
+  - family-names: Gabay
+    given-names: Simon
+    orcid: https://orcid.org/0000-0001-9094-4475
+  - family-names: Janès
+    given-names: Juliette
+    orcid: https://orcid.org/0000-0002-8971-6173
+  - family-names: Sánchez Oeconomo
+    given-names: Esteban
+    orcid: https://orcid.org/
+  - family-names: Kervegan
+    given-names: Paul
+    orcid: https://orcid.org/    
+title: "FoNDUE - Datasets for historical catalogues"
+version: "0.9"
 license: cc-by-4.0
-date-released: 2021-05-14
-url: "https://github.com/PictoCatalogs/TrainingDataOCR"
+date-released: 2022-10-31
+url: "https://github.com/FoNDUE-HTR/FONDUE-MLT-CAT"
