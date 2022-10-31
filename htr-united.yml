@@ -27,9 +27,8 @@ authors:
   roles:
   - transcriber
 institutions: []
-description: >-
-  Groundtruth for 19th/20th sale/exhibition catalogues, mainly printed in France
-  but not only. Segmentation include an extra zone `CustomeZone: entry`
+description: 'Groundtruth for 19th/20th sale/exhibition catalogues, mainly printed
+  in France but not only. Segmentation include an extra zone `CustomeZone: entry`'
 project-name: FoNDUE
 language:
 - por
