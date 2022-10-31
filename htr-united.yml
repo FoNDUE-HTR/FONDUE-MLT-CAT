@@ -2,41 +2,40 @@ schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 title: FoNDUE - Datasets for historical catalogues
 url: https://github.com/FoNDUE-HTR/FONDUE-MLT-CAT
 authors:
-  - name: Pradier
-    surname: Frédérine
-    orcid: 0000-0002-3476-7248
-    roles:
-      - transcriber
-      - project-manager
-  - name: Gabay
-    surname: Simon
-    orcid: 0000-0001-9094-4475
-    roles:
-      - transcriber
-      - project-manager
-      - quality-control
-      - support
-  - name: Kervegan
-    surname: Paul
-    roles:
-      - transcriber
-  - name: Janès
-    surname: Juliette
-  - name: Sánchez Oeconomo
-    surname: Esteban
-    roles:
-      - transcriber
+- name: Pradier
+  surname: "Fr\xE9d\xE9rine"
+  orcid: 0000-0002-3476-7248
+  roles:
+  - transcriber
+  - project-manager
+- name: Gabay
+  surname: Simon
+  orcid: 0000-0001-9094-4475
+  roles:
+  - transcriber
+  - project-manager
+  - quality-control
+  - support
+- name: Kervegan
+  surname: Paul
+  roles:
+  - transcriber
+- name: "Jan\xE8s"
+  surname: Juliette
+- name: "S\xE1nchez Oeconomo"
+  surname: Esteban
+  roles:
+  - transcriber
 institutions: []
-description: >-
-  Groundtruth for 19th/20th sale/exhibition catalogues, mainly printed in France
-  but not only. Segmentation include an extra zone `CustomeZone: entry`
+description: 'Groundtruth for 19th/20th sale/exhibition catalogues, mainly printed
+  in France but not only. Segmentation include an extra zone `CustomeZone: entry`'
 language:
-  - por
-  - fra
-  - ita
+- por
+- fra
+- ita
 production-software: eScriptorium + Kraken
 script:
-  - iso: Latn
+- iso: Latn
 script-type: only-typed
 time:
   notBefore: '1818'
@@ -45,8 +44,8 @@ hands:
   count: '1'
   precision: exact
 license:
-  - name: CC-BY 4.0
-    url: https://creativecommons.org/licenses/by/4.0/
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
 format: Alto-XML
 citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-MLT-CAT/blob/main/CITATION.cff
 volume:
