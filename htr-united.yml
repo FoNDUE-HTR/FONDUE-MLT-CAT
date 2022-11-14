@@ -23,8 +23,12 @@ authors:
   - transcriber
 - name: "Jan\xE8s"
   surname: Juliette
+  orcid: 0000-0002-8971-6173
+  roles:
+  - transcriber
 - name: "S\xE1nchez Oeconomo"
   surname: Esteban
+  orcid: 0000-0002-8591-5394
   roles:
   - transcriber
 institutions: []
