@@ -1,65 +1,65 @@
-schema: https://htr-united.github.io/schema/2022-04-15/schema.json
-title: FoNDUE - Datasets for historical catalogues
-url: https://github.com/FoNDUE-HTR/FONDUE-MLT-CAT
 authors:
 - name: Pradier
-  surname: "Fr\xE9d\xE9rine"
   orcid: 0000-0002-3476-7248
   roles:
   - transcriber
   - project-manager
+  surname: Frédérine
 - name: Gabay
-  surname: Simon
   orcid: 0000-0001-9094-4475
   roles:
   - transcriber
   - project-manager
   - quality-control
   - support
+  surname: Simon
 - name: Kervegan
-  surname: Paul
   orcid: 0000-0003-2821-8821
   roles:
   - transcriber
-- name: "Jan\xE8s"
-  surname: Juliette
+  surname: Paul
+- name: Janès
   orcid: 0000-0002-8971-6173
   roles:
   - transcriber
-- name: "S\xE1nchez Oeconomo"
-  surname: Esteban
+  surname: Juliette
+- name: Sánchez Oeconomo
   orcid: 0000-0002-8591-5394
   roles:
   - transcriber
-institutions: []
+  surname: Esteban
+citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-MLT-CAT/blob/main/CITATION.cff
 description: 'Groundtruth for 19th/20th sale/exhibition catalogues, mainly printed
   in France but not only. Segmentation include an extra zone `CustomeZone: entry`'
-project-name: FoNDUE
+format: Alto-XML
+hands:
+  count: '1'
+  precision: exact
+institutions: []
 language:
 - por
 - fra
 - ita
+license:
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
 production-software: eScriptorium + Kraken
+project-name: FoNDUE
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 script:
 - iso: Latn
 script-type: only-typed
 time:
-  notBefore: '1818'
   notAfter: '1972'
-hands:
-  count: '1'
-  precision: exact
-license:
-- name: CC-BY 4.0
-  url: https://creativecommons.org/licenses/by/4.0/
-format: Alto-XML
-citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-MLT-CAT/blob/main/CITATION.cff
+  notBefore: '1818'
+title: FoNDUE - Datasets for historical catalogues
+url: https://github.com/FoNDUE-HTR/FONDUE-MLT-CAT
 volume:
-- metric: characters
-  count: 1285120
-- metric: files
-  count: 1381
-- metric: lines
-  count: 43114
-- metric: regions
-  count: 10713
+- count: 1285120
+  metric: characters
+- count: 1381
+  metric: files
+- count: 43114
+  metric: lines
+- count: 10713
+  metric: regions
