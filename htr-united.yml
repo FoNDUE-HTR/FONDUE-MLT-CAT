@@ -28,9 +28,8 @@ authors:
   - transcriber
   surname: Esteban
 citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-MLT-CAT/blob/main/CITATION.cff
-description: 'Groundtruth for 19th/20th sale/exhibition catalogues, mainly printed
-  in France but not only.'
-transcription-guidelines: 'Segmentation include an extra zone `CustomeZone: entry`'
+description: Groundtruth for 19th/20th sale/exhibition catalogues, mainly printed
+  in France but not only.
 format: Alto-XML
 hands:
   count: unknown
@@ -54,6 +53,7 @@ time:
   notAfter: '1972'
   notBefore: '1818'
 title: FONDUE-MLT-CAT
+transcription-guidelines: 'Segmentation include an extra zone `CustomeZone: entry`'
 url: https://github.com/FoNDUE-HTR/FONDUE-MLT-CAT
 volume:
 - count: 1285120
