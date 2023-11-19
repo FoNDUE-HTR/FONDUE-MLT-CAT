@@ -1,54 +1,28 @@
-# Datasets for catalogs HTR and Layout Analysis 
-
-## Description
+# FONDUE-MLT-CAT
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
+This repo contains the transcription of catalogues, printed mainly in the 19th c. but not only
 
-This repository is composed of several datasets from different research projects. These datasets contain images and transcriptions of historical catalogs (19th and 20th c. prints) and are used to train new models of segmentation and OCR. 
-Segmented zones in the ALTO data presented here are following [SegmOnto guidelines](https://github.com/SegmOnto/Guidelines). 
+## Content
 
-- `PictoCatalogs` : composed of pictorialist exhibitions catalogs (Photo-Club de Paris).
-- `Expositions Universelles`: composed of World's Fairs catalogs. 
-- `Groupe Annuaires et Adresses` : composed of a directory. 
-- `IMAGO`: composed of art exhibition catalogs. 
-- `Katabase`: composed of manuscript sales catalogs. 
-- `ODD`: composed of french novels. 
+| File                           | Content                                                 | Transcription               |
+|--------------------------------|---------------------------------------------------------|-----------------------------|
+| `PictoCatalogs`                | Pictorialist exhibitions catalogs (Photo-Club de Paris) | Fr. Pradier                 |
+| `Expositions Universelles`     | World's Fairs catalogs                                  | E. Sánchez Oeconomo         |
+| `Groupe Annuaires et Adresses` | Phone directories                                       | G. Elgarrista and C. Brando |
+| `IMAGO`                        | Art exhibition catalogs                                 | C. Corbières and J. Janès   |
+| `Katabase`                     | Manuscript sales catalogs                               | S. Gabay and P. Kervegan    |
+| `ODD`                          | French novels (out of domain data)                      | S. Gabay                    |
 
-The `Groupe Annuaires et Adresses`, `IMAGO`, `Katabase` and `ODD` datasets are based on the [repository developed by Juliette Janes](https://github.com/Juliettejns/cataloguesSegmentationOCR/). 
-The segmented data provided by Juliette Janes has been updated by Frédérine Pradier to match the current [SegmOnto](https://github.com/SegmOnto) controlled vocabulary. 
+## How to cite
 
-This repository is under construction. 
+Cf. [`htr-united.yml`](https://github.com/FoNDUE-HTR/FONDUE-MLT-CAT/blob/main/htr-united.yml) file.
 
-## Credits 
 
-This repository is developed by Frédérine Pradier.
+## Licences
+Annotation is CC-BY. Most of the images come from:
+- Gallica ([link](https://gallica.bnf.fr/edit/und/conditions-dutilisation-des-contenus-de-gallica))
+- Metropolitan Museum of Art ([CC0](https://creativecommons.org/licenses/by/4.0))
 
-- `PictoCatalogs`: preparation has been done by Frédérine Pradier.
-- `Expositions Universelles`: preparation has been done by Esteban Sánchez Oeconomo.
-- `Groupe Annuaires et Adresses`: preparation has been done by Gabriela Elgarrista, under the supervision of Carmen Brando.
-- `IMAGO`: preparation has been done by Caroline Corbières and Juliette Janès.
-- `Katabase`: preparation has been done by Simon Gabay and Paul Kervegan.
-- `ODD`: preparation has been done by Simon Gabay.
-
-Original dataset :
-Juliette Janes, Simon Gabay, Béatrice Joyeux-Prunel, HTRCatalogs: Dataset for Historical Catalogs Segmentation and HTR, 2021, Paris: ENS Paris [https://github.com/Juliettejns/cataloguesSegmentationOCR/](https://github.com/Juliettejns/cataloguesSegmentationOCR/)
-
-## Thanks to
-
-This project greatly benefited from the active help of Simon Gabay, Pauline Jacsont, Esteban Sánchez Oeconomo and Paul Kervegan.
-
-## Licence
-
-`PictoCatalogs` : the catalogs are in the public domain, images are made available by the Metropolitan Museum of Art under a [CC0](https://creativecommons.org/licenses/by/4.0) license and transcriptions are [CC-BY](https://creativecommons.org/licenses/by/2.0/fr/).
-
-`Groupe Annuaires et Adresses`, `IMAGO`, `Katabase`, `ODD` : images from catalogs published prior 1920 and transcriptions are [CC-BY](https://creativecommons.org/licenses/by/2.0/fr/). The other images are extracts of catalogs published after 1920 and are the intellectual property of their productor.
-
-## Cite this repository
-
-Frédérine Pradier, Simon Gabay, Pauline Jacsont, Esteban Sánchez Oeconomo, Paul Kervegan and Béatrice Joyeux-Prunel, *PictoCatalogs : Datasets for catalogs HTR and Layout Analysis*, 2022, Geneva: University of Geneva
-
-## Contacts
-
-frederine.pradier@etu-unige.ch; simon.gabay@unige.ch
-
+<a rel="license" href="https://creativecommons.org/licenses/by/2.0"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/2.0/88x31.png" /></a><br />
