@@ -3,7 +3,6 @@ authors:
   orcid: 0000-0002-3476-7248
   roles:
   - transcriber
-  - project-manager
   surname: Frédérine
 - name: Gabay
   orcid: 0000-0001-9094-4475
@@ -30,10 +29,11 @@ authors:
   surname: Esteban
 citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-MLT-CAT/blob/main/CITATION.cff
 description: 'Groundtruth for 19th/20th sale/exhibition catalogues, mainly printed
-  in France but not only. Segmentation include an extra zone `CustomeZone: entry`'
+  in France but not only.'
+transcription-guidelines: 'Segmentation include an extra zone `CustomeZone: entry`'
 format: Alto-XML
 hands:
-  count: '1'
+  count: unknown
   precision: exact
 institutions: []
 language:
@@ -45,6 +45,7 @@ license:
   url: https://creativecommons.org/licenses/by/4.0/
 production-software: eScriptorium + Kraken
 project-name: FoNDUE
+project-website: https://github.com/FoNDUE-HTR
 schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 script:
 - iso: Latn
@@ -52,7 +53,7 @@ script-type: only-typed
 time:
   notAfter: '1972'
   notBefore: '1818'
-title: FoNDUE - Datasets for historical catalogues
+title: FONDUE-MLT-CAT
 url: https://github.com/FoNDUE-HTR/FONDUE-MLT-CAT
 volume:
 - count: 1285120
