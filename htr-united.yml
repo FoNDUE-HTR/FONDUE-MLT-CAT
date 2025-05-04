@@ -56,11 +56,11 @@ title: FONDUE-MLT-CAT
 transcription-guidelines: 'Segmentation include an extra zone `CustomeZone: entry`'
 url: https://github.com/FoNDUE-HTR/FONDUE-MLT-CAT
 volume:
-- count: 1285120
+- count: 1285113
   metric: characters
 - count: 1381
   metric: files
-- count: 43114
+- count: 43112
   metric: lines
 - count: 10713
   metric: regions
